@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enhanced Pokémon Dashboard</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
+    <style>
+        :root {
+            --primary-color: #ff5350;
+            --secondary-color: #3B4CCA;
+            --accent-color: #FFDE00;
+            --background-color: #f0f2f5;
+            --card-background: #ffffff;
+            --nav-height: 60px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--background-color);
+            color: #333;
+            line-height: 1.6;
+            padding-top: var(--nav-height);
+        }
+
+        /* Navigation Styles */
+        .navbar {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            height: var(--nav-height);
+            z-index: 1000;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 2rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .nav-logo {
+            color: white;
+            font-size: 1.5rem;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+        }
+
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--accent-color);
+        }
+
+        /* Hero Section */
+        .hero {
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('/api/placeholder/1920/600');
+            background-size: cover;
+            background-position: center;
+            height: 400px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: white;
+            margin-bottom: 3rem;
+        }
+
+        .hero-content {
+            max-width: 800px;
+            padding: 2rem;
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+        }
+
+        /* Section Styles */
+        .section {
+            padding: 4rem 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .section-title {
+            font-size: 2.5rem;
+            color: var(--secondary-color);
+            margin-bottom: 1rem;
+            position: relative;
+            display: inline-block;
+        }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100px;
+            height: 4px;
+            background: var(--accent-color);
+            border-radius: 2px;
+        }
+
+        /* Card Styles */
+        .pokemon-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .pokemon-card {
+            background: var(--card-background);
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .pokemon-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 12px 24px rgba(0,0,0,0.2);
+        }
+
+        .pokemon-card img {
+            width: 100%;
+            height: 300px;
+            object-fit: contain;
+            background: linear-gradient(45deg, #f3f4f6 0%, #ffffff 100%);
+            padding: 1rem;
+        }
+
+        .details {
+            padding: 1.5rem;
+        }
+
+        .details h3 {
+            font-size: 1.4rem;
+            color: var(--secondary-color);
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-value {
+            font-weight: bold;
+            color: var(--primary-color);
+        }
+
+        /* Filter Section */
+        .filter-section {
+            background: var(--card-background);
+            padding: 2rem;
+            border-radius: 20px;
+            margin-bottom: 3rem;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .filter-container {
+            display: flex;
+            gap: 2rem;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+
+        .filter-container select {
+            padding: 0.5rem 1rem;
+            border-radius: 10px;
+            border: 2px solid var(--secondary-color);
+            font-size: 1rem;
+            outline: none;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .section {
+                padding: 2rem 1rem;
+            }
+
+            .pokemon-container {
+                grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            }
+        }
+
+        /* Loading Animation */
+        .loading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 200px;
+        }
+
+        .loading::after {
+            content: '';
+            width: 50px;
+            height: 50px;
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid var(--primary-color);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-logo">
+            <i class="fas fa-gamepad"></i>
+            Pokémon Dashboard
+        </div>
+        <div class="nav-links">
+            <a href="#top-pokemon">Top Pokémon</a>
+            <a href="#attack">Attack</a>
+            <a href="#defense">Defense</a>
+            <a href="#hp">HP</a>
+            <a href="#speed">Speed</a>
+            <a href="#filter">Filter</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero animate_animated animate_fadeIn">
+        <div class="hero-content">
+            <h1>Explore the World of Pokémon</h1>
+            <p>Discover the strongest, fastest, and most defensive Pokémon in our comprehensive database</p>
+        </div>
+    </section>
+
+<div class="chart-container">
+    <div class="chart">
+        <h2>Distribution of Pokémon by Primary Type (Type 1)</h2>
+        <img src="type1_distribution.png" alt="Type 1 Distribution">
+    </div>
+
+    <div class="chart">
+        <h2>Distribution of Pokémon by Secondary Type (Type 2)</h2>
+        <img src="type2_distribution.png" alt="Type 2 Distribution">
+    </div>
+</div>
+
+    <!-- Top Pokémon Section -->
+    <section id="top-pokemon" class="section animate_animated animate_fadeInUp">
+        <div class="section-header">
+            <h2 class="section-title">Top 3 Pokémon</h2>
+            <p>Based on Total Stats</p>
+        </div>
+        <div class="pokemon-container">
+            <!-- Original top 3 Pokémon cards -->
+        </div>
+    </section>
+                <div class="pokemon-card">
+                    <img src="images/1058.png" alt="Eternatus Eternamax">
+                    <div class="details">
+                        <h3>Eternatus Eternamax</h3>
+                        <p>Type: <span class="stat-value">Poison / Dragon</span></p>
+                        <p>Total Stat: <span class="stat-value">1125</span></p>
+                    </div>
+                </div>
+
+                <div class="pokemon-card">
+                    <img src="images/475.png" alt="Rayquaza Mega Rayquaza">
+                    <div class="details">
+                        <h3>Rayquaza Mega Rayquaza</h3>
+                        <p>Type: <span class="stat-value">Dragon / Flying</span></p>
+                        <p>Total Stat: <span class="stat-value">780</span></p>
+                    </div>
+                </div>
+
+                <div class="pokemon-card">
+                    <img src="images/202.png" alt="Mewtwo Mega Mewtwo Y">
+                    <div class="details">
+                        <h3>Mewtwo Mega Mewtwo Y</h3>
+                        <p>Type: <span class="stat-value">Psychic</span></p>
+                        <p>Total Stat: <span class="stat-value">780</span></p>
+                    </div>
+                </div>
+
+    <!-- Attack Section -->
+    <section id="attack" class="section animate_animated animate_fadeInUp">
+        <div class="section-header">
+            <h2 class="section-title">Top Attackers</h2>
+            <p>Pokémon with the Highest Attack Stats</p>
+        </div>
+        <div class="pokemon-container">
+            <!-- Original attacking Pokémon cards -->
+        </div>
+    </section>
+                <div class="pokemon-card">
+                    <img src="images/478.png" alt="Deoxys Attack Forme">
+                    <div class="details">
+                        <h3>Deoxys Attack Forme</h3>
+                        <p>Attack: <span class="stat-value">180</span></p>
+                        <p>Special Attack: <span class="stat-value">180</span></p>
+                        <p>Total Attack: <span class="stat-value">360</span></p>
+                    </div>
+                </div>
+
+                <div class="pokemon-card">
+                    <img src="images/475.png" alt="Rayquaza Mega Rayquaza">
+                    <div class="details">
+                        <h3>Rayquaza Mega Rayquaza</h3>
+                        <p>Attack: <span class="stat-value">180</span></p>
+                        <p>Special Attack: <span class="stat-value">180</span></p>
+                        <p>Total Attack: <span class="stat-value">360</span></p>
+                    </div>
+                </div>
+
+                <div class="pokemon-card">
+                    <img src="images/202.png" alt="Mewtwo Mega Mewtwo Y">
+                    <div class="details">
+                        <h3>Mewtwo Mega Mewtwo Y</h3>
+                        <p>Attack: <span class="stat-value">150</span></p>
+                        <p>Special Attack: <span class="stat-value">194</span></p>
+                        <p>Total Attack: <span class="stat-value">344</span></p>
+                    </div>
+                </div>
+               <div class="pokemon-card">
+                    <img src="images/201.png" alt="Mewtwo Mega Mewtwo X">
+                    <div class="details">
+                        <h3>Mewtwo Mega Mewtwo X</h3>
+                        <p>Attack: <span class="stat-value">190</span></p>
+                        <p>Special Attack: <span class="stat-value">154</span></p>
+                        <p>Total Attack: <span class="stat-value">344</span></p>
+                    </div>
+                </div>
+
+                <div class="pokemon-card">
+                    <img src="images/961.png" alt="Necrozma Ultra Necrozma">
+                    <div class="details">
+                        <h3>Necrozma Ultra Necrozma</h3>
+                        <p>Attack: <span class="stat-value">167</span></p>
+                        <p>Special Attack: <span class="stat-value">167</span></p>
+                        <p>Total Attack: <span class="stat-value">334</span></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    <!-- Defense Section -->
+    <section id="defense" class="section animate_animated animate_fadeInUp">
+        <div class="section-header">
+            <h2 class="section-title">Top Defenders</h2>
+            <p>Pokémon with the Highest Defense Stats</p>
+        </div>
+        <div class="pokemon-container">
+            <!-- Original defensive Pokémon cards -->
+        </div>
+    </section>
+               <div class="pokemon-card">
+                    <img src="images/1058.png" alt="Eternatus Eternamax">
+                    <div class="details">
+                        <h3>Eternatus Eternamax</h3>
+                        <p>Defense: <span class="stat-value">250</span></p>
+                        <p>Special Defense: <span class="stat-value">250</span></p>
+                        <p>Total Defense: <span class="stat-value">500</span></p>
+                    </div>
+                </div>
+
+                <div class="pokemon-card">
+                    <img src="images/272.png" alt="Shuckle">
+                    <div class="details">
+                        <h3>Shuckle</h3>
+                        <p>Defense: <span class="stat-value">230</span></p>
+                        <p>Special Defense: <span class="stat-value">230</span></p>
+                        <p>Total Defense: <span class="stat-value">460</span></p>
+                    </div>
+                </div>
+
+                <div class="pokemon-card">
+                    <img src="images/265.png" alt="Steelix Mega Steelix">
+                    <div class="details">
+                        <h3>Steelix Mega Steelix</h3>
+                        <p>Defense: <span class="stat-value">230</span></p>
+                        <p>Special Defense: <span class="stat-value">95</span></p>
+                        <p>Total Defense: <span class="stat-value">325</span></p>
+                    </div>
+                </div>
+               <div class="pokemon-card">
+                    <img src="images/479.png" alt="Deoxys Defense Forme">
+                    <div class="details">
+                        <h3>Deoxys Defense Forme</h3>
+                        <p>Defense: <span class="stat-value">160</span></p>
+                        <p>Special Defense: <span class="stat-value">160</span></p>
+                        <p>Total Defense: <span class="stat-value">320</span></p>
+                    </div>
+                </div>
+
+                <div class="pokemon-card">
+                    <img src="images/966.png" alt="Stakataka">
+                    <div class="details">
+                        <h3>Stakataka</h3>
+                        <p>Defense: <span class="stat-value">211</span></p>
+                        <p>Special Defense: <span class="stat-value">101</span></p>
+                        <p>Total Defense: <span class="stat-value">312</span></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    <!-- HP Section -->
+    <section id="hp" class="section animate_animated animate_fadeInUp">
+        <div class="section-header">
+            <h2 class="section-title">Highest HP</h2>
+            <p>Pokémon with the Most Health Points</p>
+        </div>
+        <div class="pokemon-container">
+            <!-- Original HP Pokémon cards -->
+        </div>
+    </section>
+            <div class="pokemon-card">
+                    <img src="images/305.png" alt="Blissey">
+                    <div class="details">
+                        <h3>Blissey</h3>
+                        <p>HP: <span class="stat-value">255</span></p>
+                    </div>
+                </div>
+
+                <div class="pokemon-card">
+                    <img src="images/1058.png" alt="Eternatus Eternamax">
+                    <div class="details">
+                        <h3>Eternatus Eternamax</h3>
+                        <p>HP: <span class="stat-value">255</span></p>
+                    </div>
+                </div>
+
+                <div class="pokemon-card">
+                    <img src="images/151.png" alt="Chansey">
+                    <div class="details">
+                        <h3>Chansey</h3>
+                        <p>HP: <span class="stat-value">250</span></p>
+                    </div>
+                </div>
+             <div class="pokemon-card">
+                    <img src="images/957.png" alt="Guzzlord">
+                    <div class="details">
+                        <h3>Guzzlord</h3>
+                        <p>HP: <span class="stat-value">223</span></p>
+                    </div>
+                </div>
+
+                <div class="pokemon-card">
+                    <img src="images/865.png" alt="Zygarde Complete Forme">
+                    <div class="details">
+                        <h3>Zygarde Complete Forme</h3>
+                        <p>HP: <span class="stat-value">216</span></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    <!-- Speed Section -->
+    <section id="speed" class="section animate_animated animate_fadeInUp">
+        <div class="section-header">
+            <h2 class="section-title">Fastest Pokémon</h2>
+            <p>The Speediest Creatures in the Game</p>
+        </div>
+        <div class="pokemon-container">
+            <!-- Original speed Pokémon cards -->
+        </div>
+    </section>
+          <div class="pokemon-card">
+                <img src="images/1063.png" alt="Regieleki">
+                <div class="details">
+                    <h3>Regieleki</h3>
+                    <p>Speed: 200</p>
+                </div>
+            </div>
+            <div class="pokemon-card">
+                <img src="images/480.png" alt="Deoxys Speed Forme">
+                <div class="details">
+                    <h3>Deoxys Speed Forme</h3>
+                    <p>Speed: 180</p>
+                </div>
+            </div>
+            <div class="pokemon-card">
+                <img src="images/361.png" alt="Ninjask">
+                <div class="details">
+                    <h3>Ninjask</h3>
+                    <p>Speed: 160</p>
+                </div>
+            </div>
+            <div class="pokemon-card">
+                <img src="images/953.png" alt="Pheromosa">
+                <div class="details">
+                    <h3>Pheromosa</h3>
+                    <p>Speed: 151</p>
+                </div>
+            </div>
+            <div class="pokemon-card">
+                <img src="images/477.png" alt="Deoxys Normal Forme">
+                <div class="details">
+                    <h3>Deoxys Normal Forme</h3>
+                    <p>Speed: 150</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+       <body>
+         </html>
+
+
+
+    <!-- Filter Section -->
+    <section id="filter" class="section animate_animated animate_fadeInUp">
+        <div class="section-header">
+            <h2 class="section-title">Filter Pokémon</h2>
+            <p>Search by Type Combinations</p>
+        </div>
+        <div class="filter-section">
+            <div class="filter-container">
+                <label for="type1">Type 1:</label>
+                <select id="type1" onchange="filterPokemon()">
+                    <option value="">All</option>
+                </select>
+
+                <label for="type2">Type 2:</label>
+                <select id="type2" onchange="filterPokemon()">
+                    <option value="">All</option>
+                </select>
+            </div>
+            <div id="pokemonContainer" class="pokemon-container">
+                <!-- Filtered Pokémon will appear here -->
+            </div>
+        </div>
+    </section>
+
+    <script>
+        // Original JavaScript for filtering remains the same
+        // Add smooth scrolling for navigation
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
+

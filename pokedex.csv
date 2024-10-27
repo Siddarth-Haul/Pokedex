@@ -1,0 +1,1216 @@
+Image,Index,Name,Type 1,Type 2,Total,HP,Attack,Defense,Special_attack,Special_defense,Speed
+images/1.png,1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45
+images/2.png,2,Ivysaur,Grass,Poison,405,60,62,63,80,80,60
+images/3.png,3,Venusaur,Grass,Poison,525,80,82,83,100,100,80
+images/4.png,4,Venusaur Mega Venusaur,Grass,Poison,625,80,100,123,122,120,80
+images/5.png,5,Charmander,Fire,,309,39,52,43,60,50,65
+images/6.png,6,Charmeleon,Fire,,405,58,64,58,80,65,80
+images/7.png,7,Charizard,Fire,Flying,534,78,84,78,109,85,100
+images/8.png,8,Charizard Mega Charizard X,Fire,Dragon,634,78,130,111,130,85,100
+images/9.png,9,Charizard Mega Charizard Y,Fire,Flying,634,78,104,78,159,115,100
+images/10.png,10,Squirtle,Water,,314,44,48,65,50,64,43
+images/11.png,11,Wartortle,Water,,405,59,63,80,65,80,58
+images/12.png,12,Blastoise,Water,,530,79,83,100,85,105,78
+images/13.png,13,Blastoise Mega Blastoise,Water,,630,79,103,120,135,115,78
+images/14.png,14,Caterpie,Bug,,195,45,30,35,20,20,45
+images/15.png,15,Metapod,Bug,,205,50,20,55,25,25,30
+images/16.png,16,Butterfree,Bug,Flying,395,60,45,50,90,80,70
+images/17.png,17,Weedle,Bug,Poison,195,40,35,30,20,20,50
+images/18.png,18,Kakuna,Bug,Poison,205,45,25,50,25,25,35
+images/19.png,19,Beedrill,Bug,Poison,395,65,90,40,45,80,75
+images/20.png,20,Beedrill Mega Beedrill,Bug,Poison,495,65,150,40,15,80,145
+images/21.png,21,Pidgey,Normal,Flying,251,40,45,40,35,35,56
+images/22.png,22,Pidgeotto,Normal,Flying,349,63,60,55,50,50,71
+images/23.png,23,Pidgeot,Normal,Flying,479,83,80,75,70,70,101
+images/24.png,24,Pidgeot Mega Pidgeot,Normal,Flying,579,83,80,80,135,80,121
+images/25.png,25,Rattata,Normal,,253,30,56,35,25,35,72
+images/26.png,26,Rattata Alolan Rattata,Dark,Normal,253,30,56,35,25,35,72
+images/27.png,27,Raticate,Normal,,413,55,81,60,50,70,97
+images/28.png,28,Raticate Alolan Raticate,Dark,Normal,413,75,71,70,40,80,77
+images/29.png,29,Spearow,Normal,Flying,262,40,60,30,31,31,70
+images/30.png,30,Fearow,Normal,Flying,442,65,90,65,61,61,100
+images/31.png,31,Ekans,Poison,,288,35,60,44,40,54,55
+images/32.png,32,Arbok,Poison,,448,60,95,69,65,79,80
+images/33.png,33,Pikachu,Electric,,320,35,55,40,50,50,90
+images/34.png,34,Pikachu Partner Pikachu,Electric,,430,45,80,50,75,60,120
+images/35.png,35,Raichu,Electric,,485,60,90,55,90,80,110
+images/36.png,36,Raichu Alolan Raichu,Electric,Psychic,485,60,85,50,95,85,110
+images/37.png,37,Sandshrew,Ground,,300,50,75,85,20,30,40
+images/38.png,38,Sandshrew Alolan Sandshrew,Ice,Steel,300,50,75,90,10,35,40
+images/39.png,39,Sandslash,Ground,,450,75,100,110,45,55,65
+images/40.png,40,Sandslash Alolan Sandslash,Ice,Steel,450,75,100,120,25,65,65
+images/41.png,41,Nidoran♀,Poison,,275,55,47,52,40,40,41
+images/42.png,42,Nidorina,Poison,,365,70,62,67,55,55,56
+images/43.png,43,Nidoqueen,Poison,Ground,505,90,92,87,75,85,76
+images/44.png,44,Nidoran♂,Poison,,273,46,57,40,40,40,50
+images/45.png,45,Nidorino,Poison,,365,61,72,57,55,55,65
+images/46.png,46,Nidoking,Poison,Ground,505,81,102,77,85,75,85
+images/47.png,47,Clefairy,Fairy,,323,70,45,48,60,65,35
+images/48.png,48,Clefable,Fairy,,483,95,70,73,95,90,60
+images/49.png,49,Vulpix,Fire,,299,38,41,40,50,65,65
+images/50.png,50,Vulpix Alolan Vulpix,Ice,,299,38,41,40,50,65,65
+images/51.png,51,Ninetales,Fire,,505,73,76,75,81,100,100
+images/52.png,52,Ninetales Alolan Ninetales,Ice,Fairy,505,73,67,75,81,100,109
+images/53.png,53,Jigglypuff,Normal,Fairy,270,115,45,20,45,25,20
+images/54.png,54,Wigglytuff,Normal,Fairy,435,140,70,45,85,50,45
+images/55.png,55,Zubat,Poison,Flying,245,40,45,35,30,40,55
+images/56.png,56,Golbat,Poison,Flying,455,75,80,70,65,75,90
+images/57.png,57,Oddish,Grass,Poison,320,45,50,55,75,65,30
+images/58.png,58,Gloom,Grass,Poison,395,60,65,70,85,75,40
+images/59.png,59,Vileplume,Grass,Poison,490,75,80,85,110,90,50
+images/60.png,60,Paras,Bug,Grass,285,35,70,55,45,55,25
+images/61.png,61,Parasect,Bug,Grass,405,60,95,80,60,80,30
+images/62.png,62,Venonat,Bug,Poison,305,60,55,50,40,55,45
+images/63.png,63,Venomoth,Bug,Poison,450,70,65,60,90,75,90
+images/64.png,64,Diglett,Ground,,265,10,55,25,35,45,95
+images/65.png,65,Diglett Alolan Diglett,Ground,Steel,265,10,55,30,35,45,90
+images/66.png,66,Dugtrio,Ground,,425,35,100,50,50,70,120
+images/67.png,67,Dugtrio Alolan Dugtrio,Ground,Steel,425,35,100,60,50,70,110
+images/68.png,68,Meowth,Normal,,290,40,45,35,40,40,90
+images/69.png,69,Meowth Alolan Meowth,Dark,,290,40,35,35,50,40,90
+images/70.png,70,Meowth Galarian Meowth,Steel,,290,50,65,55,40,40,40
+images/71.png,71,Persian,Normal,,440,65,70,60,65,65,115
+images/72.png,72,Persian Alolan Persian,Dark,,440,65,60,60,75,65,115
+images/73.png,73,Psyduck,Water,,320,50,52,48,65,50,55
+images/74.png,74,Golduck,Water,,500,80,82,78,95,80,85
+images/75.png,75,Mankey,Fighting,,305,40,80,35,35,45,70
+images/76.png,76,Primeape,Fighting,,455,65,105,60,60,70,95
+images/77.png,77,Growlithe,Fire,,350,55,70,45,70,50,60
+images/78.png,78,Growlithe Hisuian Growlithe,Fire,Rock,350,60,75,45,65,50,55
+images/79.png,79,Arcanine,Fire,,555,90,110,80,100,80,95
+images/80.png,80,Arcanine Hisuian Arcanine,Fire,Rock,555,95,115,80,95,80,90
+images/81.png,81,Poliwag,Water,,300,40,50,40,40,40,90
+images/82.png,82,Poliwhirl,Water,,385,65,65,65,50,50,90
+images/83.png,83,Poliwrath,Water,Fighting,510,90,95,95,70,90,70
+images/84.png,84,Abra,Psychic,,310,25,20,15,105,55,90
+images/85.png,85,Kadabra,Psychic,,400,40,35,30,120,70,105
+images/86.png,86,Alakazam,Psychic,,500,55,50,45,135,95,120
+images/87.png,87,Alakazam Mega Alakazam,Psychic,,600,55,50,65,175,105,150
+images/88.png,88,Machop,Fighting,,305,70,80,50,35,35,35
+images/89.png,89,Machoke,Fighting,,405,80,100,70,50,60,45
+images/90.png,90,Machamp,Fighting,,505,90,130,80,65,85,55
+images/91.png,91,Bellsprout,Grass,Poison,300,50,75,35,70,30,40
+images/92.png,92,Weepinbell,Grass,Poison,390,65,90,50,85,45,55
+images/93.png,93,Victreebel,Grass,Poison,490,80,105,65,100,70,70
+images/94.png,94,Tentacool,Water,Poison,335,40,40,35,50,100,70
+images/95.png,95,Tentacruel,Water,Poison,515,80,70,65,80,120,100
+images/96.png,96,Geodude,Rock,Ground,300,40,80,100,30,30,20
+images/97.png,97,Geodude Alolan Geodude,Rock,Electric,300,40,80,100,30,30,20
+images/98.png,98,Graveler,Rock,Ground,390,55,95,115,45,45,35
+images/99.png,99,Graveler Alolan Graveler,Rock,Electric,390,55,95,115,45,45,35
+images/100.png,100,Golem,Rock,Ground,495,80,120,130,55,65,45
+images/101.png,101,Golem Alolan Golem,Rock,Electric,495,80,120,130,55,65,45
+images/102.png,102,Ponyta,Fire,,410,50,85,55,65,65,90
+images/103.png,103,Ponyta Galarian Ponyta,Psychic,,410,50,85,55,65,65,90
+images/104.png,104,Rapidash,Fire,,500,65,100,70,80,80,105
+images/105.png,105,Rapidash Galarian Rapidash,Psychic,Fairy,500,65,100,70,80,80,105
+images/106.png,106,Slowpoke,Water,Psychic,315,90,65,65,40,40,15
+images/107.png,107,Slowpoke Galarian Slowpoke,Psychic,,315,90,65,65,40,40,15
+images/108.png,108,Slowbro,Water,Psychic,490,95,75,110,100,80,30
+images/109.png,109,Slowbro Mega Slowbro,Water,Psychic,590,95,75,180,130,80,30
+images/110.png,110,Slowbro Galarian Slowbro,Poison,Psychic,490,95,100,95,100,70,30
+images/111.png,111,Magnemite,Electric,Steel,325,25,35,70,95,55,45
+images/112.png,112,Magneton,Electric,Steel,465,50,60,95,120,70,70
+images/113.png,113,Farfetch'd,Normal,Flying,377,52,90,55,58,62,60
+images/114.png,114,Farfetch'd Galarian Farfetch'd,Fighting,,377,52,95,55,58,62,55
+images/115.png,115,Doduo,Normal,Flying,310,35,85,45,35,35,75
+images/116.png,116,Dodrio,Normal,Flying,470,60,110,70,60,60,110
+images/117.png,117,Seel,Water,,325,65,45,55,45,70,45
+images/118.png,118,Dewgong,Water,Ice,475,90,70,80,70,95,70
+images/119.png,119,Grimer,Poison,,325,80,80,50,40,50,25
+images/120.png,120,Grimer Alolan Grimer,Poison,Dark,325,80,80,50,40,50,25
+images/121.png,121,Muk,Poison,,500,105,105,75,65,100,50
+images/122.png,122,Muk Alolan Muk,Poison,Dark,500,105,105,75,65,100,50
+images/123.png,123,Shellder,Water,,305,30,65,100,45,25,40
+images/124.png,124,Cloyster,Water,Ice,525,50,95,180,85,45,70
+images/125.png,125,Gastly,Ghost,Poison,310,30,35,30,100,35,80
+images/126.png,126,Haunter,Ghost,Poison,405,45,50,45,115,55,95
+images/127.png,127,Gengar,Ghost,Poison,500,60,65,60,130,75,110
+images/128.png,128,Gengar Mega Gengar,Ghost,Poison,600,60,65,80,170,95,130
+images/129.png,129,Onix,Rock,Ground,385,35,45,160,30,45,70
+images/130.png,130,Drowzee,Psychic,,328,60,48,45,43,90,42
+images/131.png,131,Hypno,Psychic,,483,85,73,70,73,115,67
+images/132.png,132,Krabby,Water,,325,30,105,90,25,25,50
+images/133.png,133,Kingler,Water,,475,55,130,115,50,50,75
+images/134.png,134,Voltorb,Electric,,330,40,30,50,55,55,100
+images/135.png,135,Voltorb Hisuian Voltorb,Electric,Grass,330,40,30,50,55,55,100
+images/136.png,136,Electrode,Electric,,490,60,50,70,80,80,150
+images/137.png,137,Electrode Hisuian Electrode,Electric,Grass,490,60,50,70,80,80,150
+images/138.png,138,Exeggcute,Grass,Psychic,325,60,40,80,60,45,40
+images/139.png,139,Exeggutor,Grass,Psychic,530,95,95,85,125,75,55
+images/140.png,140,Exeggutor Alolan Exeggutor,Grass,Dragon,530,95,105,85,125,75,45
+images/141.png,141,Cubone,Ground,,320,50,50,95,40,50,35
+images/142.png,142,Marowak,Ground,,425,60,80,110,50,80,45
+images/143.png,143,Marowak Alolan Marowak,Fire,Ghost,425,60,80,110,50,80,45
+images/144.png,144,Hitmonlee,Fighting,,455,50,120,53,35,110,87
+images/145.png,145,Hitmonchan,Fighting,,455,50,105,79,35,110,76
+images/146.png,146,Lickitung,Normal,,385,90,55,75,60,75,30
+images/147.png,147,Koffing,Poison,,340,40,65,95,60,45,35
+images/148.png,148,Weezing,Poison,,490,65,90,120,85,70,60
+images/149.png,149,Weezing Galarian Weezing,Poison,Fairy,490,65,90,120,85,70,60
+images/150.png,150,Rhyhorn,Ground,Rock,345,80,85,95,30,30,25
+images/151.png,151,Rhydon,Ground,Rock,485,105,130,120,45,45,40
+images/152.png,152,Chansey,Normal,,450,250,5,5,35,105,50
+images/153.png,153,Tangela,Grass,,435,65,55,115,100,40,60
+images/154.png,154,Kangaskhan,Normal,,490,105,95,80,40,80,90
+images/155.png,155,Kangaskhan Mega Kangaskhan,Normal,,590,105,125,100,60,100,100
+images/156.png,156,Horsea,Water,,295,30,40,70,70,25,60
+images/157.png,157,Seadra,Water,,440,55,65,95,95,45,85
+images/158.png,158,Goldeen,Water,,320,45,67,60,35,50,63
+images/159.png,159,Seaking,Water,,450,80,92,65,65,80,68
+images/160.png,160,Staryu,Water,,340,30,45,55,70,55,85
+images/161.png,161,Starmie,Water,Psychic,520,60,75,85,100,85,115
+images/162.png,162,Mr. Mime,Psychic,Fairy,460,40,45,65,100,120,90
+images/163.png,163,Mr. Mime Galarian Mr. Mime,Ice,Psychic,460,50,65,65,90,90,100
+images/164.png,164,Scyther,Bug,Flying,500,70,110,80,55,80,105
+images/165.png,165,Jynx,Ice,Psychic,455,65,50,35,115,95,95
+images/166.png,166,Electabuzz,Electric,,490,65,83,57,95,85,105
+images/167.png,167,Magmar,Fire,,495,65,95,57,100,85,93
+images/168.png,168,Pinsir,Bug,,500,65,125,100,55,70,85
+images/169.png,169,Pinsir Mega Pinsir,Bug,Flying,600,65,155,120,65,90,105
+images/170.png,170,Tauros,Normal,,490,75,100,95,40,70,110
+images/171.png,171,Tauros Combat Breed,Fighting,,490,75,110,105,30,70,100
+images/172.png,172,Tauros Blaze Breed,Fighting,Fire,490,75,110,105,30,70,100
+images/173.png,173,Tauros Aqua Breed,Fighting,Water,490,75,110,105,30,70,100
+images/174.png,174,Magikarp,Water,,200,20,10,55,15,20,80
+images/175.png,175,Gyarados,Water,Flying,540,95,125,79,60,100,81
+images/176.png,176,Gyarados Mega Gyarados,Water,Dark,640,95,155,109,70,130,81
+images/177.png,177,Lapras,Water,Ice,535,130,85,80,85,95,60
+images/178.png,178,Ditto,Normal,,288,48,48,48,48,48,48
+images/179.png,179,Eevee,Normal,,325,55,55,50,45,65,55
+images/180.png,180,Eevee Partner Eevee,Normal,,435,65,75,70,65,85,75
+images/181.png,181,Vaporeon,Water,,525,130,65,60,110,95,65
+images/182.png,182,Jolteon,Electric,,525,65,65,60,110,95,130
+images/183.png,183,Flareon,Fire,,525,65,130,60,95,110,65
+images/184.png,184,Porygon,Normal,,395,65,60,70,85,75,40
+images/185.png,185,Omanyte,Rock,Water,355,35,40,100,90,55,35
+images/186.png,186,Omastar,Rock,Water,495,70,60,125,115,70,55
+images/187.png,187,Kabuto,Rock,Water,355,30,80,90,55,45,55
+images/188.png,188,Kabutops,Rock,Water,495,60,115,105,65,70,80
+images/189.png,189,Aerodactyl,Rock,Flying,515,80,105,65,60,75,130
+images/190.png,190,Aerodactyl Mega Aerodactyl,Rock,Flying,615,80,135,85,70,95,150
+images/191.png,191,Snorlax,Normal,,540,160,110,65,65,110,30
+images/192.png,192,Articuno,Ice,Flying,580,90,85,100,95,125,85
+images/193.png,193,Articuno Galarian Articuno,Psychic,Flying,580,90,85,85,125,100,95
+images/194.png,194,Zapdos,Electric,Flying,580,90,90,85,125,90,100
+images/195.png,195,Zapdos Galarian Zapdos,Fighting,Flying,580,90,125,90,85,90,100
+images/196.png,196,Moltres,Fire,Flying,580,90,100,90,125,85,90
+images/197.png,197,Moltres Galarian Moltres,Dark,Flying,580,90,85,90,100,125,90
+images/198.png,198,Dratini,Dragon,,300,41,64,45,50,50,50
+images/199.png,199,Dragonair,Dragon,,420,61,84,65,70,70,70
+images/200.png,200,Dragonite,Dragon,Flying,600,91,134,95,100,100,80
+images/201.png,201,Mewtwo,Psychic,,680,106,110,90,154,90,130
+images/202.png,202,Mewtwo Mega Mewtwo X,Psychic,Fighting,780,106,190,100,154,100,130
+images/203.png,203,Mewtwo Mega Mewtwo Y,Psychic,,780,106,150,70,194,120,140
+images/204.png,204,Mew,Psychic,,600,100,100,100,100,100,100
+images/205.png,205,Chikorita,Grass,,318,45,49,65,49,65,45
+images/206.png,206,Bayleef,Grass,,405,60,62,80,63,80,60
+images/207.png,207,Meganium,Grass,,525,80,82,100,83,100,80
+images/208.png,208,Cyndaquil,Fire,,309,39,52,43,60,50,65
+images/209.png,209,Quilava,Fire,,405,58,64,58,80,65,80
+images/210.png,210,Typhlosion,Fire,,534,78,84,78,109,85,100
+images/211.png,211,Typhlosion Hisuian Typhlosion,Fire,Ghost,534,73,84,78,119,85,95
+images/212.png,212,Totodile,Water,,314,50,65,64,44,48,43
+images/213.png,213,Croconaw,Water,,405,65,80,80,59,63,58
+images/214.png,214,Feraligatr,Water,,530,85,105,100,79,83,78
+images/215.png,215,Sentret,Normal,,215,35,46,34,35,45,20
+images/216.png,216,Furret,Normal,,415,85,76,64,45,55,90
+images/217.png,217,Hoothoot,Normal,Flying,262,60,30,30,36,56,50
+images/218.png,218,Noctowl,Normal,Flying,452,100,50,50,86,96,70
+images/219.png,219,Ledyba,Bug,Flying,265,40,20,30,40,80,55
+images/220.png,220,Ledian,Bug,Flying,390,55,35,50,55,110,85
+images/221.png,221,Spinarak,Bug,Poison,250,40,60,40,40,40,30
+images/222.png,222,Ariados,Bug,Poison,400,70,90,70,60,70,40
+images/223.png,223,Crobat,Poison,Flying,535,85,90,80,70,80,130
+images/224.png,224,Chinchou,Water,Electric,330,75,38,38,56,56,67
+images/225.png,225,Lanturn,Water,Electric,460,125,58,58,76,76,67
+images/226.png,226,Pichu,Electric,,205,20,40,15,35,35,60
+images/227.png,227,Cleffa,Fairy,,218,50,25,28,45,55,15
+images/228.png,228,Igglybuff,Normal,Fairy,210,90,30,15,40,20,15
+images/229.png,229,Togepi,Fairy,,245,35,20,65,40,65,20
+images/230.png,230,Togetic,Fairy,Flying,405,55,40,85,80,105,40
+images/231.png,231,Natu,Psychic,Flying,320,40,50,45,70,45,70
+images/232.png,232,Xatu,Psychic,Flying,470,65,75,70,95,70,95
+images/233.png,233,Mareep,Electric,,280,55,40,40,65,45,35
+images/234.png,234,Flaaffy,Electric,,365,70,55,55,80,60,45
+images/235.png,235,Ampharos,Electric,,510,90,75,85,115,90,55
+images/236.png,236,Ampharos Mega Ampharos,Electric,Dragon,610,90,95,105,165,110,45
+images/237.png,237,Bellossom,Grass,,490,75,80,95,90,100,50
+images/238.png,238,Marill,Water,Fairy,250,70,20,50,20,50,40
+images/239.png,239,Azumarill,Water,Fairy,420,100,50,80,60,80,50
+images/240.png,240,Sudowoodo,Rock,,410,70,100,115,30,65,30
+images/241.png,241,Politoed,Water,,500,90,75,75,90,100,70
+images/242.png,242,Hoppip,Grass,Flying,250,35,35,40,35,55,50
+images/243.png,243,Skiploom,Grass,Flying,340,55,45,50,45,65,80
+images/244.png,244,Jumpluff,Grass,Flying,460,75,55,70,55,95,110
+images/245.png,245,Aipom,Normal,,360,55,70,55,40,55,85
+images/246.png,246,Sunkern,Grass,,180,30,30,30,30,30,30
+images/247.png,247,Sunflora,Grass,,425,75,75,55,105,85,30
+images/248.png,248,Yanma,Bug,Flying,390,65,65,45,75,45,95
+images/249.png,249,Wooper,Water,Ground,210,55,45,45,25,25,15
+images/250.png,250,Wooper Paldean Wooper,Poison,Ground,210,55,45,45,25,25,15
+images/251.png,251,Quagsire,Water,Ground,430,95,85,85,65,65,35
+images/252.png,252,Espeon,Psychic,,525,65,65,60,130,95,110
+images/253.png,253,Umbreon,Dark,,525,95,65,110,60,130,65
+images/254.png,254,Murkrow,Dark,Flying,405,60,85,42,85,42,91
+images/255.png,255,Slowking,Water,Psychic,490,95,75,80,100,110,30
+images/256.png,256,Slowking Galarian Slowking,Poison,Psychic,490,95,65,80,110,110,30
+images/257.png,257,Misdreavus,Ghost,,435,60,60,60,85,85,85
+images/258.png,258,Unown,Psychic,,336,48,72,48,72,48,48
+images/259.png,259,Wobbuffet,Psychic,,405,190,33,58,33,58,33
+images/260.png,260,Girafarig,Normal,Psychic,455,70,80,65,90,65,85
+images/261.png,261,Pineco,Bug,,290,50,65,90,35,35,15
+images/262.png,262,Forretress,Bug,Steel,465,75,90,140,60,60,40
+images/263.png,263,Dunsparce,Normal,,415,100,70,70,65,65,45
+images/264.png,264,Gligar,Ground,Flying,430,65,75,105,35,65,85
+images/265.png,265,Steelix,Steel,Ground,510,75,85,200,55,65,30
+images/266.png,266,Steelix Mega Steelix,Steel,Ground,610,75,125,230,55,95,30
+images/267.png,267,Snubbull,Fairy,,300,60,80,50,40,40,30
+images/268.png,268,Granbull,Fairy,,450,90,120,75,60,60,45
+images/269.png,269,Qwilfish,Water,Poison,440,65,95,85,55,55,85
+images/270.png,270,Qwilfish Hisuian Qwilfish,Dark,Poison,440,65,95,85,55,55,85
+images/271.png,271,Scizor,Bug,Steel,500,70,130,100,55,80,65
+images/272.png,272,Scizor Mega Scizor,Bug,Steel,600,70,150,140,65,100,75
+images/273.png,273,Shuckle,Bug,Rock,505,20,10,230,10,230,5
+images/274.png,274,Heracross,Bug,Fighting,500,80,125,75,40,95,85
+images/275.png,275,Heracross Mega Heracross,Bug,Fighting,600,80,185,115,40,105,75
+images/276.png,276,Sneasel,Dark,Ice,430,55,95,55,35,75,115
+images/277.png,277,Sneasel Hisuian Sneasel,Fighting,Poison,430,55,95,55,35,75,115
+images/278.png,278,Teddiursa,Normal,,330,60,80,50,50,50,40
+images/279.png,279,Ursaring,Normal,,500,90,130,75,75,75,55
+images/280.png,280,Slugma,Fire,,250,40,40,40,70,40,20
+images/281.png,281,Magcargo,Fire,Rock,430,60,50,120,90,80,30
+images/282.png,282,Swinub,Ice,Ground,250,50,50,40,30,30,50
+images/283.png,283,Piloswine,Ice,Ground,450,100,100,80,60,60,50
+images/284.png,284,Corsola,Water,Rock,410,65,55,95,65,95,35
+images/285.png,285,Corsola Galarian Corsola,Ghost,,410,60,55,100,65,100,30
+images/286.png,286,Remoraid,Water,,300,35,65,35,65,35,65
+images/287.png,287,Octillery,Water,,480,75,105,75,105,75,45
+images/288.png,288,Delibird,Ice,Flying,330,45,55,45,65,45,75
+images/289.png,289,Mantine,Water,Flying,485,85,40,70,80,140,70
+images/290.png,290,Skarmory,Steel,Flying,465,65,80,140,40,70,70
+images/291.png,291,Houndour,Dark,Fire,330,45,60,30,80,50,65
+images/292.png,292,Houndoom,Dark,Fire,500,75,90,50,110,80,95
+images/293.png,293,Houndoom Mega Houndoom,Dark,Fire,600,75,90,90,140,90,115
+images/294.png,294,Kingdra,Water,Dragon,540,75,95,95,95,95,85
+images/295.png,295,Phanpy,Ground,,330,90,60,60,40,40,40
+images/296.png,296,Donphan,Ground,,500,90,120,120,60,60,50
+images/297.png,297,Porygon2,Normal,,515,85,80,90,105,95,60
+images/298.png,298,Stantler,Normal,,465,73,95,62,85,65,85
+images/299.png,299,Smeargle,Normal,,250,55,20,35,20,45,75
+images/300.png,300,Tyrogue,Fighting,,210,35,35,35,35,35,35
+images/301.png,301,Hitmontop,Fighting,,455,50,95,95,35,110,70
+images/302.png,302,Smoochum,Ice,Psychic,305,45,30,15,85,65,65
+images/303.png,303,Elekid,Electric,,360,45,63,37,65,55,95
+images/304.png,304,Magby,Fire,,365,45,75,37,70,55,83
+images/305.png,305,Miltank,Normal,,490,95,80,105,40,70,100
+images/306.png,306,Blissey,Normal,,540,255,10,10,75,135,55
+images/307.png,307,Raikou,Electric,,580,90,85,75,115,100,115
+images/308.png,308,Entei,Fire,,580,115,115,85,90,75,100
+images/309.png,309,Suicune,Water,,580,100,75,115,90,115,85
+images/310.png,310,Larvitar,Rock,Ground,300,50,64,50,45,50,41
+images/311.png,311,Pupitar,Rock,Ground,410,70,84,70,65,70,51
+images/312.png,312,Tyranitar,Rock,Dark,600,100,134,110,95,100,61
+images/313.png,313,Tyranitar Mega Tyranitar,Rock,Dark,700,100,164,150,95,120,71
+images/314.png,314,Lugia,Psychic,Flying,680,106,90,130,90,154,110
+images/315.png,315,Ho-oh,Fire,Flying,680,106,130,90,110,154,90
+images/316.png,316,Celebi,Psychic,Grass,600,100,100,100,100,100,100
+images/317.png,317,Treecko,Grass,,310,40,45,35,65,55,70
+images/318.png,318,Grovyle,Grass,,405,50,65,45,85,65,95
+images/319.png,319,Sceptile,Grass,,530,70,85,65,105,85,120
+images/320.png,320,Sceptile Mega Sceptile,Grass,Dragon,630,70,110,75,145,85,145
+images/321.png,321,Torchic,Fire,,310,45,60,40,70,50,45
+images/322.png,322,Combusken,Fire,Fighting,405,60,85,60,85,60,55
+images/323.png,323,Blaziken,Fire,Fighting,530,80,120,70,110,70,80
+images/324.png,324,Blaziken Mega Blaziken,Fire,Fighting,630,80,160,80,130,80,100
+images/325.png,325,Mudkip,Water,,310,50,70,50,50,50,40
+images/326.png,326,Marshtomp,Water,Ground,405,70,85,70,60,70,50
+images/327.png,327,Swampert,Water,Ground,535,100,110,90,85,90,60
+images/328.png,328,Swampert Mega Swampert,Water,Ground,635,100,150,110,95,110,70
+images/329.png,329,Poochyena,Dark,,220,35,55,35,30,30,35
+images/330.png,330,Mightyena,Dark,,420,70,90,70,60,60,70
+images/331.png,331,Zigzagoon,Normal,,240,38,30,41,30,41,60
+images/332.png,332,Zigzagoon Galarian Zigzagoon,Dark,Normal,240,38,30,41,30,41,60
+images/333.png,333,Linoone,Normal,,420,78,70,61,50,61,100
+images/334.png,334,Linoone Galarian Linoone,Dark,Normal,420,78,70,61,50,61,100
+images/335.png,335,Wurmple,Bug,,195,45,45,35,20,30,20
+images/336.png,336,Silcoon,Bug,,205,50,35,55,25,25,15
+images/337.png,337,Beautifly,Bug,Flying,395,60,70,50,100,50,65
+images/338.png,338,Cascoon,Bug,,205,50,35,55,25,25,15
+images/339.png,339,Dustox,Bug,Poison,385,60,50,70,50,90,65
+images/340.png,340,Lotad,Water,Grass,220,40,30,30,40,50,30
+images/341.png,341,Lombre,Water,Grass,340,60,50,50,60,70,50
+images/342.png,342,Ludicolo,Water,Grass,480,80,70,70,90,100,70
+images/343.png,343,Seedot,Grass,,220,40,40,50,30,30,30
+images/344.png,344,Nuzleaf,Grass,Dark,340,70,70,40,60,40,60
+images/345.png,345,Shiftry,Grass,Dark,480,90,100,60,90,60,80
+images/346.png,346,Taillow,Normal,Flying,270,40,55,30,30,30,85
+images/347.png,347,Swellow,Normal,Flying,455,60,85,60,75,50,125
+images/348.png,348,Wingull,Water,Flying,270,40,30,30,55,30,85
+images/349.png,349,Pelipper,Water,Flying,440,60,50,100,95,70,65
+images/350.png,350,Ralts,Psychic,Fairy,198,28,25,25,45,35,40
+images/351.png,351,Kirlia,Psychic,Fairy,278,38,35,35,65,55,50
+images/352.png,352,Gardevoir,Psychic,Fairy,518,68,65,65,125,115,80
+images/353.png,353,Gardevoir Mega Gardevoir,Psychic,Fairy,618,68,85,65,165,135,100
+images/354.png,354,Surskit,Bug,Water,269,40,30,32,50,52,65
+images/355.png,355,Masquerain,Bug,Flying,454,70,60,62,100,82,80
+images/356.png,356,Shroomish,Grass,,295,60,40,60,40,60,35
+images/357.png,357,Breloom,Grass,Fighting,460,60,130,80,60,60,70
+images/358.png,358,Slakoth,Normal,,280,60,60,60,35,35,30
+images/359.png,359,Vigoroth,Normal,,440,80,80,80,55,55,90
+images/360.png,360,Slaking,Normal,,670,150,160,100,95,65,100
+images/361.png,361,Nincada,Bug,Ground,266,31,45,90,30,30,40
+images/362.png,362,Ninjask,Bug,Flying,456,61,90,45,50,50,160
+images/363.png,363,Shedinja,Bug,Ghost,236,1,90,45,30,30,40
+images/364.png,364,Whismur,Normal,,240,64,51,23,51,23,28
+images/365.png,365,Loudred,Normal,,360,84,71,43,71,43,48
+images/366.png,366,Exploud,Normal,,490,104,91,63,91,73,68
+images/367.png,367,Makuhita,Fighting,,237,72,60,30,20,30,25
+images/368.png,368,Hariyama,Fighting,,474,144,120,60,40,60,50
+images/369.png,369,Azurill,Normal,Fairy,190,50,20,40,20,40,20
+images/370.png,370,Nosepass,Rock,,375,30,45,135,45,90,30
+images/371.png,371,Skitty,Normal,,260,50,45,45,35,35,50
+images/372.png,372,Delcatty,Normal,,400,70,65,65,55,55,90
+images/373.png,373,Sableye,Dark,Ghost,380,50,75,75,65,65,50
+images/374.png,374,Sableye Mega Sableye,Dark,Ghost,480,50,85,125,85,115,20
+images/375.png,375,Mawile,Steel,Fairy,380,50,85,85,55,55,50
+images/376.png,376,Mawile Mega Mawile,Steel,Fairy,480,50,105,125,55,95,50
+images/377.png,377,Aron,Steel,Rock,330,50,70,100,40,40,30
+images/378.png,378,Lairon,Steel,Rock,430,60,90,140,50,50,40
+images/379.png,379,Aggron,Steel,Rock,530,70,110,180,60,60,50
+images/380.png,380,Aggron Mega Aggron,Steel,,630,70,140,230,60,80,50
+images/381.png,381,Meditite,Fighting,Psychic,280,30,40,55,40,55,60
+images/382.png,382,Medicham,Fighting,Psychic,410,60,60,75,60,75,80
+images/383.png,383,Medicham Mega Medicham,Fighting,Psychic,510,60,100,85,80,85,100
+images/384.png,384,Electrike,Electric,,295,40,45,40,65,40,65
+images/385.png,385,Manectric,Electric,,475,70,75,60,105,60,105
+images/386.png,386,Manectric Mega Manectric,Electric,,575,70,75,80,135,80,135
+images/387.png,387,Plusle,Electric,,405,60,50,40,85,75,95
+images/388.png,388,Minun,Electric,,405,60,40,50,75,85,95
+images/389.png,389,Volbeat,Bug,,430,65,73,75,47,85,85
+images/390.png,390,Illumise,Bug,,430,65,47,75,73,85,85
+images/391.png,391,Roselia,Grass,Poison,400,50,60,45,100,80,65
+images/392.png,392,Gulpin,Poison,,302,70,43,53,43,53,40
+images/393.png,393,Swalot,Poison,,467,100,73,83,73,83,55
+images/394.png,394,Carvanha,Water,Dark,305,45,90,20,65,20,65
+images/395.png,395,Sharpedo,Water,Dark,460,70,120,40,95,40,95
+images/396.png,396,Sharpedo Mega Sharpedo,Water,Dark,560,70,140,70,110,65,105
+images/397.png,397,Wailmer,Water,,400,130,70,35,70,35,60
+images/398.png,398,Wailord,Water,,500,170,90,45,90,45,60
+images/399.png,399,Numel,Fire,Ground,305,60,60,40,65,45,35
+images/400.png,400,Camerupt,Fire,Ground,460,70,100,70,105,75,40
+images/401.png,401,Camerupt Mega Camerupt,Fire,Ground,560,70,120,100,145,105,20
+images/402.png,402,Torkoal,Fire,,470,70,85,140,85,70,20
+images/403.png,403,Spoink,Psychic,,330,60,25,35,70,80,60
+images/404.png,404,Grumpig,Psychic,,470,80,45,65,90,110,80
+images/405.png,405,Spinda,Normal,,360,60,60,60,60,60,60
+images/406.png,406,Trapinch,Ground,,290,45,100,45,45,45,10
+images/407.png,407,Vibrava,Ground,Dragon,340,50,70,50,50,50,70
+images/408.png,408,Flygon,Ground,Dragon,520,80,100,80,80,80,100
+images/409.png,409,Cacnea,Grass,,335,50,85,40,85,40,35
+images/410.png,410,Cacturne,Grass,Dark,475,70,115,60,115,60,55
+images/411.png,411,Swablu,Normal,Flying,310,45,40,60,40,75,50
+images/412.png,412,Altaria,Dragon,Flying,490,75,70,90,70,105,80
+images/413.png,413,Altaria Mega Altaria,Dragon,Fairy,590,75,110,110,110,105,80
+images/414.png,414,Zangoose,Normal,,458,73,115,60,60,60,90
+images/415.png,415,Seviper,Poison,,458,73,100,60,100,60,65
+images/416.png,416,Lunatone,Rock,Psychic,460,90,55,65,95,85,70
+images/417.png,417,Solrock,Rock,Psychic,460,90,95,85,55,65,70
+images/418.png,418,Barboach,Water,Ground,288,50,48,43,46,41,60
+images/419.png,419,Whiscash,Water,Ground,468,110,78,73,76,71,60
+images/420.png,420,Corphish,Water,,308,43,80,65,50,35,35
+images/421.png,421,Crawdaunt,Water,Dark,468,63,120,85,90,55,55
+images/422.png,422,Baltoy,Ground,Psychic,300,40,40,55,40,70,55
+images/423.png,423,Claydol,Ground,Psychic,500,60,70,105,70,120,75
+images/424.png,424,Lileep,Rock,Grass,355,66,41,77,61,87,23
+images/425.png,425,Cradily,Rock,Grass,495,86,81,97,81,107,43
+images/426.png,426,Anorith,Rock,Bug,355,45,95,50,40,50,75
+images/427.png,427,Armaldo,Rock,Bug,495,75,125,100,70,80,45
+images/428.png,428,Feebas,Water,,200,20,15,20,10,55,80
+images/429.png,429,Milotic,Water,,540,95,60,79,100,125,81
+images/430.png,430,Castform,Normal,,420,70,70,70,70,70,70
+images/431.png,431,Castform Sunny Form,Fire,,420,70,70,70,70,70,70
+images/432.png,432,Castform Rainy Form,Water,,420,70,70,70,70,70,70
+images/433.png,433,Castform Snowy Form,Ice,,420,70,70,70,70,70,70
+images/434.png,434,Kecleon,Normal,,440,60,90,70,60,120,40
+images/435.png,435,Shuppet,Ghost,,295,44,75,35,63,33,45
+images/436.png,436,Banette,Ghost,,455,64,115,65,83,63,65
+images/437.png,437,Banette Mega Banette,Ghost,,555,64,165,75,93,83,75
+images/438.png,438,Duskull,Ghost,,295,20,40,90,30,90,25
+images/439.png,439,Dusclops,Ghost,,455,40,70,130,60,130,25
+images/440.png,440,Tropius,Grass,Flying,460,99,68,83,72,87,51
+images/441.png,441,Chimecho,Psychic,,455,75,50,80,95,90,65
+images/442.png,442,Absol,Dark,,465,65,130,60,75,60,75
+images/443.png,443,Absol Mega Absol,Dark,,565,65,150,60,115,60,115
+images/444.png,444,Wynaut,Psychic,,260,95,23,48,23,48,23
+images/445.png,445,Snorunt,Ice,,300,50,50,50,50,50,50
+images/446.png,446,Glalie,Ice,,480,80,80,80,80,80,80
+images/447.png,447,Glalie Mega Glalie,Ice,,580,80,120,80,120,80,100
+images/448.png,448,Spheal,Ice,Water,290,70,40,50,55,50,25
+images/449.png,449,Sealeo,Ice,Water,410,90,60,70,75,70,45
+images/450.png,450,Walrein,Ice,Water,530,110,80,90,95,90,65
+images/451.png,451,Clamperl,Water,,345,35,64,85,74,55,32
+images/452.png,452,Huntail,Water,,485,55,104,105,94,75,52
+images/453.png,453,Gorebyss,Water,,485,55,84,105,114,75,52
+images/454.png,454,Relicanth,Water,Rock,485,100,90,130,45,65,55
+images/455.png,455,Luvdisc,Water,,330,43,30,55,40,65,97
+images/456.png,456,Bagon,Dragon,,300,45,75,60,40,30,50
+images/457.png,457,Shelgon,Dragon,,420,65,95,100,60,50,50
+images/458.png,458,Salamence,Dragon,Flying,600,95,135,80,110,80,100
+images/459.png,459,Salamence Mega Salamence,Dragon,Flying,700,95,145,130,120,90,120
+images/460.png,460,Beldum,Steel,Psychic,300,40,55,80,35,60,30
+images/461.png,461,Metang,Steel,Psychic,420,60,75,100,55,80,50
+images/462.png,462,Metagross,Steel,Psychic,600,80,135,130,95,90,70
+images/463.png,463,Metagross Mega Metagross,Steel,Psychic,700,80,145,150,105,110,110
+images/464.png,464,Regirock,Rock,,580,80,100,200,50,100,50
+images/465.png,465,Regice,Ice,,580,80,50,100,100,200,50
+images/466.png,466,Registeel,Steel,,580,80,75,150,75,150,50
+images/467.png,467,Latias,Dragon,Psychic,600,80,80,90,110,130,110
+images/468.png,468,Latias Mega Latias,Dragon,Psychic,700,80,100,120,140,150,110
+images/469.png,469,Latios,Dragon,Psychic,600,80,90,80,130,110,110
+images/470.png,470,Latios Mega Latios,Dragon,Psychic,700,80,130,100,160,120,110
+images/471.png,471,Kyogre,Water,,670,100,100,90,150,140,90
+images/472.png,472,Kyogre Primal Kyogre,Water,,770,100,150,90,180,160,90
+images/473.png,473,Groudon,Ground,,670,100,150,140,100,90,90
+images/474.png,474,Groudon Primal Groudon,Ground,Fire,770,100,180,160,150,90,90
+images/475.png,475,Rayquaza,Dragon,Flying,680,105,150,90,150,90,95
+images/476.png,476,Rayquaza Mega Rayquaza,Dragon,Flying,780,105,180,100,180,100,115
+images/477.png,477,Jirachi,Steel,Psychic,600,100,100,100,100,100,100
+images/478.png,478,Deoxys Normal Forme,Psychic,,600,50,150,50,150,50,150
+images/479.png,479,Deoxys Attack Forme,Psychic,,600,50,180,20,180,20,150
+images/480.png,480,Deoxys Defense Forme,Psychic,,600,50,70,160,70,160,90
+images/481.png,481,Deoxys Speed Forme,Psychic,,600,50,95,90,95,90,180
+images/482.png,482,Turtwig,Grass,,318,55,68,64,45,55,31
+images/483.png,483,Grotle,Grass,,405,75,89,85,55,65,36
+images/484.png,484,Torterra,Grass,Ground,525,95,109,105,75,85,56
+images/485.png,485,Chimchar,Fire,,309,44,58,44,58,44,61
+images/486.png,486,Monferno,Fire,Fighting,405,64,78,52,78,52,81
+images/487.png,487,Infernape,Fire,Fighting,534,76,104,71,104,71,108
+images/488.png,488,Piplup,Water,,314,53,51,53,61,56,40
+images/489.png,489,Prinplup,Water,,405,64,66,68,81,76,50
+images/490.png,490,Empoleon,Water,Steel,530,84,86,88,111,101,60
+images/491.png,491,Starly,Normal,Flying,245,40,55,30,30,30,60
+images/492.png,492,Staravia,Normal,Flying,340,55,75,50,40,40,80
+images/493.png,493,Staraptor,Normal,Flying,485,85,120,70,50,60,100
+images/494.png,494,Bidoof,Normal,,250,59,45,40,35,40,31
+images/495.png,495,Bibarel,Normal,Water,410,79,85,60,55,60,71
+images/496.png,496,Kricketot,Bug,,194,37,25,41,25,41,25
+images/497.png,497,Kricketune,Bug,,384,77,85,51,55,51,65
+images/498.png,498,Shinx,Electric,,263,45,65,34,40,34,45
+images/499.png,499,Luxio,Electric,,363,60,85,49,60,49,60
+images/500.png,500,Luxray,Electric,,523,80,120,79,95,79,70
+images/501.png,501,Budew,Grass,Poison,280,40,30,35,50,70,55
+images/502.png,502,Roserade,Grass,Poison,515,60,70,65,125,105,90
+images/503.png,503,Cranidos,Rock,,350,67,125,40,30,30,58
+images/504.png,504,Rampardos,Rock,,495,97,165,60,65,50,58
+images/505.png,505,Shieldon,Rock,Steel,350,30,42,118,42,88,30
+images/506.png,506,Bastiodon,Rock,Steel,495,60,52,168,47,138,30
+images/507.png,507,Burmy Plant Cloak,Bug,,224,40,29,45,29,45,36
+images/508.png,508,Burmy Sandy Cloak,Bug,,224,40,29,45,29,45,36
+images/509.png,509,Burmy Trash Cloak,Bug,,224,40,29,45,29,45,36
+images/510.png,510,Wormadam Plant Cloak,Bug,Grass,424,60,59,85,79,105,36
+images/511.png,511,Wormadam Sandy Cloak,Bug,Ground,424,60,79,105,59,85,36
+images/512.png,512,Wormadam Trash Cloak,Bug,Steel,424,60,69,95,69,95,36
+images/513.png,513,Mothim,Bug,Flying,424,70,94,50,94,50,66
+images/514.png,514,Combee,Bug,Flying,244,30,30,42,30,42,70
+images/515.png,515,Vespiquen,Bug,Flying,474,70,80,102,80,102,40
+images/516.png,516,Pachirisu,Electric,,405,60,45,70,45,90,95
+images/517.png,517,Buizel,Water,,330,55,65,35,60,30,85
+images/518.png,518,Floatzel,Water,,495,85,105,55,85,50,115
+images/519.png,519,Cherubi,Grass,,275,45,35,45,62,53,35
+images/520.png,520,Cherrim,Grass,,450,70,60,70,87,78,85
+images/521.png,521,Shellos,Water,,325,76,48,48,57,62,34
+images/522.png,522,Gastrodon,Water,Ground,475,111,83,68,92,82,39
+images/523.png,523,Ambipom,Normal,,482,75,100,66,60,66,115
+images/524.png,524,Drifloon,Ghost,Flying,348,90,50,34,60,44,70
+images/525.png,525,Drifblim,Ghost,Flying,498,150,80,44,90,54,80
+images/526.png,526,Buneary,Normal,,350,55,66,44,44,56,85
+images/527.png,527,Lopunny,Normal,,480,65,76,84,54,96,105
+images/528.png,528,Lopunny Mega Lopunny,Normal,Fighting,580,65,136,94,54,96,135
+images/529.png,529,Mismagius,Ghost,,495,60,60,60,105,105,105
+images/530.png,530,Honchkrow,Dark,Flying,505,100,125,52,105,52,71
+images/531.png,531,Glameow,Normal,,310,49,55,42,42,37,85
+images/532.png,532,Purugly,Normal,,452,71,82,64,64,59,112
+images/533.png,533,Chingling,Psychic,,285,45,30,50,65,50,45
+images/534.png,534,Stunky,Poison,Dark,329,63,63,47,41,41,74
+images/535.png,535,Skuntank,Poison,Dark,479,103,93,67,71,61,84
+images/536.png,536,Bronzor,Steel,Psychic,300,57,24,86,24,86,23
+images/537.png,537,Bronzong,Steel,Psychic,500,67,89,116,79,116,33
+images/538.png,538,Bonsly,Rock,,290,50,80,95,10,45,10
+images/539.png,539,Mime Jr.,Psychic,Fairy,310,20,25,45,70,90,60
+images/540.png,540,Happiny,Normal,,220,100,5,5,15,65,30
+images/541.png,541,Chatot,Normal,Flying,411,76,65,45,92,42,91
+images/542.png,542,Spiritomb,Ghost,Dark,485,50,92,108,92,108,35
+images/543.png,543,Gible,Dragon,Ground,300,58,70,45,40,45,42
+images/544.png,544,Gabite,Dragon,Ground,410,68,90,65,50,55,82
+images/545.png,545,Garchomp,Dragon,Ground,600,108,130,95,80,85,102
+images/546.png,546,Garchomp Mega Garchomp,Dragon,Ground,700,108,170,115,120,95,92
+images/547.png,547,Munchlax,Normal,,390,135,85,40,40,85,5
+images/548.png,548,Riolu,Fighting,,285,40,70,40,35,40,60
+images/549.png,549,Lucario,Fighting,Steel,525,70,110,70,115,70,90
+images/550.png,550,Lucario Mega Lucario,Fighting,Steel,625,70,145,88,140,70,112
+images/551.png,551,Hippopotas,Ground,,330,68,72,78,38,42,32
+images/552.png,552,Hippowdon,Ground,,525,108,112,118,68,72,47
+images/553.png,553,Skorupi,Poison,Bug,330,40,50,90,30,55,65
+images/554.png,554,Drapion,Poison,Dark,500,70,90,110,60,75,95
+images/555.png,555,Croagunk,Poison,Fighting,300,48,61,40,61,40,50
+images/556.png,556,Toxicroak,Poison,Fighting,490,83,106,65,86,65,85
+images/557.png,557,Carnivine,Grass,,454,74,100,72,90,72,46
+images/558.png,558,Finneon,Water,,330,49,49,56,49,61,66
+images/559.png,559,Lumineon,Water,,460,69,69,76,69,86,91
+images/560.png,560,Mantyke,Water,Flying,345,45,20,50,60,120,50
+images/561.png,561,Snover,Grass,Ice,334,60,62,50,62,60,40
+images/562.png,562,Abomasnow,Grass,Ice,494,90,92,75,92,85,60
+images/563.png,563,Abomasnow Mega Abomasnow,Grass,Ice,594,90,132,105,132,105,30
+images/564.png,564,Weavile,Dark,Ice,510,70,120,65,45,85,125
+images/565.png,565,Magnezone,Electric,Steel,535,70,70,115,130,90,60
+images/566.png,566,Lickilicky,Normal,,515,110,85,95,80,95,50
+images/567.png,567,Rhyperior,Ground,Rock,535,115,140,130,55,55,40
+images/568.png,568,Tangrowth,Grass,,535,100,100,125,110,50,50
+images/569.png,569,Electivire,Electric,,540,75,123,67,95,85,95
+images/570.png,570,Magmortar,Fire,,540,75,95,67,125,95,83
+images/571.png,571,Togekiss,Fairy,Flying,545,85,50,95,120,115,80
+images/572.png,572,Yanmega,Bug,Flying,515,86,76,86,116,56,95
+images/573.png,573,Leafeon,Grass,,525,65,110,130,60,65,95
+images/574.png,574,Glaceon,Ice,,525,65,60,110,130,95,65
+images/575.png,575,Gliscor,Ground,Flying,510,75,95,125,45,75,95
+images/576.png,576,Mamoswine,Ice,Ground,530,110,130,80,70,60,80
+images/577.png,577,Porygon-Z,Normal,,535,85,80,70,135,75,90
+images/578.png,578,Gallade,Psychic,Fighting,518,68,125,65,65,115,80
+images/579.png,579,Gallade Mega Gallade,Psychic,Fighting,618,68,165,95,65,115,110
+images/580.png,580,Probopass,Rock,Steel,525,60,55,145,75,150,40
+images/581.png,581,Dusknoir,Ghost,,525,45,100,135,65,135,45
+images/582.png,582,Froslass,Ice,Ghost,480,70,80,70,80,70,110
+images/583.png,583,Rotom,Electric,Ghost,440,50,50,77,95,77,91
+images/584.png,584,Rotom Heat Rotom,Electric,Fire,520,50,65,107,105,107,86
+images/585.png,585,Rotom Wash Rotom,Electric,Water,520,50,65,107,105,107,86
+images/586.png,586,Rotom Frost Rotom,Electric,Ice,520,50,65,107,105,107,86
+images/587.png,587,Rotom Fan Rotom,Electric,Flying,520,50,65,107,105,107,86
+images/588.png,588,Rotom Mow Rotom,Electric,Grass,520,50,65,107,105,107,86
+images/589.png,589,Uxie,Psychic,,580,75,75,130,75,130,95
+images/590.png,590,Mesprit,Psychic,,580,80,105,105,105,105,80
+images/591.png,591,Azelf,Psychic,,580,75,125,70,125,70,115
+images/592.png,592,Dialga,Steel,Dragon,680,100,120,120,150,100,90
+images/593.png,593,Dialga Origin Forme,Steel,Dragon,680,100,100,120,150,120,90
+images/594.png,594,Palkia,Water,Dragon,680,90,120,100,150,120,100
+images/595.png,595,Palkia Origin Forme,Water,Dragon,680,90,100,100,150,120,120
+images/596.png,596,Heatran,Fire,Steel,600,91,90,106,130,106,77
+images/597.png,597,Regigigas,Normal,,670,110,160,110,80,110,100
+images/598.png,598,Giratina Altered Forme,Ghost,Dragon,680,150,100,120,100,120,90
+images/599.png,599,Giratina Origin Forme,Ghost,Dragon,680,150,120,100,120,100,90
+images/600.png,600,Cresselia,Psychic,,580,120,70,110,75,120,85
+images/601.png,601,Phione,Water,,480,80,80,80,80,80,80
+images/602.png,602,Manaphy,Water,,600,100,100,100,100,100,100
+images/603.png,603,Darkrai,Dark,,600,70,90,90,135,90,125
+images/604.png,604,Shaymin Land Forme,Grass,,600,100,100,100,100,100,100
+images/605.png,605,Shaymin Sky Forme,Grass,Flying,600,100,103,75,120,75,127
+images/606.png,606,Arceus,Normal,,720,120,120,120,120,120,120
+images/607.png,607,Victini,Psychic,Fire,600,100,100,100,100,100,100
+images/608.png,608,Snivy,Grass,,308,45,45,55,45,55,63
+images/609.png,609,Servine,Grass,,413,60,60,75,60,75,83
+images/610.png,610,Serperior,Grass,,528,75,75,95,75,95,113
+images/611.png,611,Tepig,Fire,,308,65,63,45,45,45,45
+images/612.png,612,Pignite,Fire,Fighting,418,90,93,55,70,55,55
+images/613.png,613,Emboar,Fire,Fighting,528,110,123,65,100,65,65
+images/614.png,614,Oshawott,Water,,308,55,55,45,63,45,45
+images/615.png,615,Dewott,Water,,413,75,75,60,83,60,60
+images/616.png,616,Samurott,Water,,528,95,100,85,108,70,70
+images/617.png,617,Samurott Hisuian Samurott,Water,Dark,528,90,108,80,100,65,85
+images/618.png,618,Patrat,Normal,,255,45,55,39,35,39,42
+images/619.png,619,Watchog,Normal,,420,60,85,69,60,69,77
+images/620.png,620,Lillipup,Normal,,275,45,60,45,25,45,55
+images/621.png,621,Herdier,Normal,,370,65,80,65,35,65,60
+images/622.png,622,Stoutland,Normal,,500,85,110,90,45,90,80
+images/623.png,623,Purrloin,Dark,,281,41,50,37,50,37,66
+images/624.png,624,Liepard,Dark,,446,64,88,50,88,50,106
+images/625.png,625,Pansage,Grass,,316,50,53,48,53,48,64
+images/626.png,626,Simisage,Grass,,498,75,98,63,98,63,101
+images/627.png,627,Pansear,Fire,,316,50,53,48,53,48,64
+images/628.png,628,Simisear,Fire,,498,75,98,63,98,63,101
+images/629.png,629,Panpour,Water,,316,50,53,48,53,48,64
+images/630.png,630,Simipour,Water,,498,75,98,63,98,63,101
+images/631.png,631,Munna,Psychic,,292,76,25,45,67,55,24
+images/632.png,632,Musharna,Psychic,,487,116,55,85,107,95,29
+images/633.png,633,Pidove,Normal,Flying,264,50,55,50,36,30,43
+images/634.png,634,Tranquill,Normal,Flying,358,62,77,62,50,42,65
+images/635.png,635,Unfezant,Normal,Flying,488,80,115,80,65,55,93
+images/636.png,636,Blitzle,Electric,,295,45,60,32,50,32,76
+images/637.png,637,Zebstrika,Electric,,497,75,100,63,80,63,116
+images/638.png,638,Roggenrola,Rock,,280,55,75,85,25,25,15
+images/639.png,639,Boldore,Rock,,390,70,105,105,50,40,20
+images/640.png,640,Gigalith,Rock,,515,85,135,130,60,80,25
+images/641.png,641,Woobat,Psychic,Flying,323,65,45,43,55,43,72
+images/642.png,642,Swoobat,Psychic,Flying,425,67,57,55,77,55,114
+images/643.png,643,Drilbur,Ground,,328,60,85,40,30,45,68
+images/644.png,644,Excadrill,Ground,Steel,508,110,135,60,50,65,88
+images/645.png,645,Audino,Normal,,445,103,60,86,60,86,50
+images/646.png,646,Audino Mega Audino,Normal,Fairy,545,103,60,126,80,126,50
+images/647.png,647,Timburr,Fighting,,305,75,80,55,25,35,35
+images/648.png,648,Gurdurr,Fighting,,405,85,105,85,40,50,40
+images/649.png,649,Conkeldurr,Fighting,,505,105,140,95,55,65,45
+images/650.png,650,Tympole,Water,,294,50,50,40,50,40,64
+images/651.png,651,Palpitoad,Water,Ground,384,75,65,55,65,55,69
+images/652.png,652,Seismitoad,Water,Ground,509,105,95,75,85,75,74
+images/653.png,653,Throh,Fighting,,465,120,100,85,30,85,45
+images/654.png,654,Sawk,Fighting,,465,75,125,75,30,75,85
+images/655.png,655,Sewaddle,Bug,Grass,310,45,53,70,40,60,42
+images/656.png,656,Swadloon,Bug,Grass,380,55,63,90,50,80,42
+images/657.png,657,Leavanny,Bug,Grass,500,75,103,80,70,80,92
+images/658.png,658,Venipede,Bug,Poison,260,30,45,59,30,39,57
+images/659.png,659,Whirlipede,Bug,Poison,360,40,55,99,40,79,47
+images/660.png,660,Scolipede,Bug,Poison,485,60,100,89,55,69,112
+images/661.png,661,Cottonee,Grass,Fairy,280,40,27,60,37,50,66
+images/662.png,662,Whimsicott,Grass,Fairy,480,60,67,85,77,75,116
+images/663.png,663,Petilil,Grass,,280,45,35,50,70,50,30
+images/664.png,664,Lilligant,Grass,,480,70,60,75,110,75,90
+images/665.png,665,Lilligant Hisuian Lilligant,Grass,Fighting,480,70,105,75,50,75,105
+images/666.png,666,Basculin Red-Striped Form,Water,,460,70,92,65,80,55,98
+images/667.png,667,Basculin Blue-Striped Form,Water,,460,70,92,65,80,55,98
+images/668.png,668,Basculin White-Striped Form,Water,,460,70,92,65,80,55,98
+images/669.png,669,Sandile,Ground,Dark,292,50,72,35,35,35,65
+images/670.png,670,Krokorok,Ground,Dark,351,60,82,45,45,45,74
+images/671.png,671,Krookodile,Ground,Dark,519,95,117,80,65,70,92
+images/672.png,672,Darumaka,Fire,,315,70,90,45,15,45,50
+images/673.png,673,Darumaka Galarian Darumaka,Ice,,315,70,90,45,15,45,50
+images/674.png,674,Darmanitan Standard Mode,Fire,,480,105,140,55,30,55,95
+images/675.png,675,Darmanitan Zen Mode,Fire,Psychic,540,105,30,105,140,105,55
+images/676.png,676,Darmanitan Galarian Standard Mode,Ice,,480,105,140,55,30,55,95
+images/677.png,677,Darmanitan Galarian Zen Mode,Ice,Fire,540,105,160,55,30,55,135
+images/678.png,678,Maractus,Grass,,461,75,86,67,106,67,60
+images/679.png,679,Dwebble,Bug,Rock,325,50,65,85,35,35,55
+images/680.png,680,Crustle,Bug,Rock,485,70,105,125,65,75,45
+images/681.png,681,Scraggy,Dark,Fighting,348,50,75,70,35,70,48
+images/682.png,682,Scrafty,Dark,Fighting,488,65,90,115,45,115,58
+images/683.png,683,Sigilyph,Psychic,Flying,490,72,58,80,103,80,97
+images/684.png,684,Yamask,Ghost,,303,38,30,85,55,65,30
+images/685.png,685,Yamask Galarian Yamask,Ground,Ghost,303,38,55,85,30,65,30
+images/686.png,686,Cofagrigus,Ghost,,483,58,50,145,95,105,30
+images/687.png,687,Tirtouga,Water,Rock,355,54,78,103,53,45,22
+images/688.png,688,Carracosta,Water,Rock,495,74,108,133,83,65,32
+images/689.png,689,Archen,Rock,Flying,401,55,112,45,74,45,70
+images/690.png,690,Archeops,Rock,Flying,567,75,140,65,112,65,110
+images/691.png,691,Trubbish,Poison,,329,50,50,62,40,62,65
+images/692.png,692,Garbodor,Poison,,474,80,95,82,60,82,75
+images/693.png,693,Zorua,Dark,,330,40,65,40,80,40,65
+images/694.png,694,Zorua Hisuian Zorua,Normal,Ghost,330,35,60,40,85,40,70
+images/695.png,695,Zoroark,Dark,,510,60,105,60,120,60,105
+images/696.png,696,Zoroark Hisuian Zoroark,Normal,Ghost,510,55,100,60,125,60,110
+images/697.png,697,Minccino,Normal,,300,55,50,40,40,40,75
+images/698.png,698,Cinccino,Normal,,470,75,95,60,65,60,115
+images/699.png,699,Gothita,Psychic,,290,45,30,50,55,65,45
+images/700.png,700,Gothorita,Psychic,,390,60,45,70,75,85,55
+images/701.png,701,Gothitelle,Psychic,,490,70,55,95,95,110,65
+images/702.png,702,Solosis,Psychic,,290,45,30,40,105,50,20
+images/703.png,703,Duosion,Psychic,,370,65,40,50,125,60,30
+images/704.png,704,Reuniclus,Psychic,,490,110,65,75,125,85,30
+images/705.png,705,Ducklett,Water,Flying,305,62,44,50,44,50,55
+images/706.png,706,Swanna,Water,Flying,473,75,87,63,87,63,98
+images/707.png,707,Vanillite,Ice,,305,36,50,50,65,60,44
+images/708.png,708,Vanillish,Ice,,395,51,65,65,80,75,59
+images/709.png,709,Vanilluxe,Ice,,535,71,95,85,110,95,79
+images/710.png,710,Deerling,Normal,Grass,335,60,60,50,40,50,75
+images/711.png,711,Sawsbuck,Normal,Grass,475,80,100,70,60,70,95
+images/712.png,712,Emolga,Electric,Flying,428,55,75,60,75,60,103
+images/713.png,713,Karrablast,Bug,,315,50,75,45,40,45,60
+images/714.png,714,Escavalier,Bug,Steel,495,70,135,105,60,105,20
+images/715.png,715,Foongus,Grass,Poison,294,69,55,45,55,55,15
+images/716.png,716,Amoonguss,Grass,Poison,464,114,85,70,85,80,30
+images/717.png,717,Frillish,Water,Ghost,335,55,40,50,65,85,40
+images/718.png,718,Jellicent,Water,Ghost,480,100,60,70,85,105,60
+images/719.png,719,Alomomola,Water,,470,165,75,80,40,45,65
+images/720.png,720,Joltik,Bug,Electric,319,50,47,50,57,50,65
+images/721.png,721,Galvantula,Bug,Electric,472,70,77,60,97,60,108
+images/722.png,722,Ferroseed,Grass,Steel,305,44,50,91,24,86,10
+images/723.png,723,Ferrothorn,Grass,Steel,489,74,94,131,54,116,20
+images/724.png,724,Klink,Steel,,300,40,55,70,45,60,30
+images/725.png,725,Klang,Steel,,440,60,80,95,70,85,50
+images/726.png,726,Klinklang,Steel,,520,60,100,115,70,85,90
+images/727.png,727,Tynamo,Electric,,275,35,55,40,45,40,60
+images/728.png,728,Eelektrik,Electric,,405,65,85,70,75,70,40
+images/729.png,729,Eelektross,Electric,,515,85,115,80,105,80,50
+images/730.png,730,Elgyem,Psychic,,335,55,55,55,85,55,30
+images/731.png,731,Beheeyem,Psychic,,485,75,75,75,125,95,40
+images/732.png,732,Litwick,Ghost,Fire,275,50,30,55,65,55,20
+images/733.png,733,Lampent,Ghost,Fire,370,60,40,60,95,60,55
+images/734.png,734,Chandelure,Ghost,Fire,520,60,55,90,145,90,80
+images/735.png,735,Axew,Dragon,,320,46,87,60,30,40,57
+images/736.png,736,Fraxure,Dragon,,410,66,117,70,40,50,67
+images/737.png,737,Haxorus,Dragon,,540,76,147,90,60,70,97
+images/738.png,738,Cubchoo,Ice,,305,55,70,40,60,40,40
+images/739.png,739,Beartic,Ice,,505,95,130,80,70,80,50
+images/740.png,740,Cryogonal,Ice,,515,80,50,50,95,135,105
+images/741.png,741,Shelmet,Bug,,305,50,40,85,40,65,25
+images/742.png,742,Accelgor,Bug,,495,80,70,40,100,60,145
+images/743.png,743,Stunfisk,Ground,Electric,471,109,66,84,81,99,32
+images/744.png,744,Stunfisk Galarian Stunfisk,Ground,Steel,471,109,81,99,66,84,32
+images/745.png,745,Mienfoo,Fighting,,350,45,85,50,55,50,65
+images/746.png,746,Mienshao,Fighting,,510,65,125,60,95,60,105
+images/747.png,747,Druddigon,Dragon,,485,77,120,90,60,90,48
+images/748.png,748,Golett,Ground,Ghost,303,59,74,50,35,50,35
+images/749.png,749,Golurk,Ground,Ghost,483,89,124,80,55,80,55
+images/750.png,750,Pawniard,Dark,Steel,340,45,85,70,40,40,60
+images/751.png,751,Bisharp,Dark,Steel,490,65,125,100,60,70,70
+images/752.png,752,Bouffalant,Normal,,490,95,110,95,40,95,55
+images/753.png,753,Rufflet,Normal,Flying,350,70,83,50,37,50,60
+images/754.png,754,Braviary,Normal,Flying,510,100,123,75,57,75,80
+images/755.png,755,Braviary Hisuian Braviary,Psychic,Flying,510,110,83,70,112,70,65
+images/756.png,756,Vullaby,Dark,Flying,370,70,55,75,45,65,60
+images/757.png,757,Mandibuzz,Dark,Flying,510,110,65,105,55,95,80
+images/758.png,758,Heatmor,Fire,,484,85,97,66,105,66,65
+images/759.png,759,Durant,Bug,Steel,484,58,109,112,48,48,109
+images/760.png,760,Deino,Dark,Dragon,300,52,65,50,45,50,38
+images/761.png,761,Zweilous,Dark,Dragon,420,72,85,70,65,70,58
+images/762.png,762,Hydreigon,Dark,Dragon,600,92,105,90,125,90,98
+images/763.png,763,Larvesta,Bug,Fire,360,55,85,55,50,55,60
+images/764.png,764,Volcarona,Bug,Fire,550,85,60,65,135,105,100
+images/765.png,765,Cobalion,Steel,Fighting,580,91,90,129,90,72,108
+images/766.png,766,Terrakion,Rock,Fighting,580,91,129,90,72,90,108
+images/767.png,767,Virizion,Grass,Fighting,580,91,90,72,90,129,108
+images/768.png,768,Tornadus Incarnate Forme,Flying,,580,79,115,70,125,80,111
+images/769.png,769,Tornadus Therian Forme,Flying,,580,79,100,80,110,90,121
+images/770.png,770,Thundurus Incarnate Forme,Electric,Flying,580,79,115,70,125,80,111
+images/771.png,771,Thundurus Therian Forme,Electric,Flying,580,79,105,70,145,80,101
+images/772.png,772,Reshiram,Dragon,Fire,680,100,120,100,150,120,90
+images/773.png,773,Zekrom,Dragon,Electric,680,100,150,120,120,100,90
+images/774.png,774,Landorus Incarnate Forme,Ground,Flying,600,89,125,90,115,80,101
+images/775.png,775,Landorus Therian Forme,Ground,Flying,600,89,145,90,105,80,91
+images/776.png,776,Kyurem,Dragon,Ice,660,125,130,90,130,90,95
+images/777.png,777,Kyurem White Kyurem,Dragon,Ice,700,125,120,90,170,100,95
+images/778.png,778,Kyurem Black Kyurem,Dragon,Ice,700,125,170,100,120,90,95
+images/779.png,779,Keldeo Ordinary Form,Water,Fighting,580,91,72,90,129,90,108
+images/780.png,780,Keldeo Resolute Form,Water,Fighting,580,91,72,90,129,90,108
+images/781.png,781,Meloetta Aria Forme,Normal,Psychic,600,100,77,77,128,128,90
+images/782.png,782,Meloetta Pirouette Forme,Normal,Fighting,600,100,128,90,77,77,128
+images/783.png,783,Genesect,Bug,Steel,600,71,120,95,120,95,99
+images/784.png,784,Chespin,Grass,,313,56,61,65,48,45,38
+images/785.png,785,Quilladin,Grass,,405,61,78,95,56,58,57
+images/786.png,786,Chesnaught,Grass,Fighting,530,88,107,122,74,75,64
+images/787.png,787,Fennekin,Fire,,307,40,45,40,62,60,60
+images/788.png,788,Braixen,Fire,,409,59,59,58,90,70,73
+images/789.png,789,Delphox,Fire,Psychic,534,75,69,72,114,100,104
+images/790.png,790,Froakie,Water,,314,41,56,40,62,44,71
+images/791.png,791,Frogadier,Water,,405,54,63,52,83,56,97
+images/792.png,792,Greninja,Water,Dark,530,72,95,67,103,71,122
+images/793.png,793,Greninja Ash-Greninja,Water,Dark,640,72,145,67,153,71,132
+images/794.png,794,Bunnelby,Normal,,237,38,36,38,32,36,57
+images/795.png,795,Diggersby,Normal,Ground,423,85,56,77,50,77,78
+images/796.png,796,Fletchling,Normal,Flying,278,45,50,43,40,38,62
+images/797.png,797,Fletchinder,Fire,Flying,382,62,73,55,56,52,84
+images/798.png,798,Talonflame,Fire,Flying,499,78,81,71,74,69,126
+images/799.png,799,Scatterbug,Bug,,200,38,35,40,27,25,35
+images/800.png,800,Spewpa,Bug,,213,45,22,60,27,30,29
+images/801.png,801,Vivillon,Bug,Flying,411,80,52,50,90,50,89
+images/802.png,802,Litleo,Fire,Normal,369,62,50,58,73,54,72
+images/803.png,803,Pyroar,Fire,Normal,507,86,68,72,109,66,106
+images/804.png,804,Flabébé,Fairy,,303,44,38,39,61,79,42
+images/805.png,805,Floette,Fairy,,371,54,45,47,75,98,52
+images/806.png,806,Florges,Fairy,,552,78,65,68,112,154,75
+images/807.png,807,Skiddo,Grass,,350,66,65,48,62,57,52
+images/808.png,808,Gogoat,Grass,,531,123,100,62,97,81,68
+images/809.png,809,Pancham,Fighting,,348,67,82,62,46,48,43
+images/810.png,810,Pangoro,Fighting,Dark,495,95,124,78,69,71,58
+images/811.png,811,Furfrou,Normal,,472,75,80,60,65,90,102
+images/812.png,812,Espurr,Psychic,,355,62,48,54,63,60,68
+images/813.png,813,Meowstic Male,Psychic,,466,74,48,76,83,81,104
+images/814.png,814,Meowstic Female,Psychic,,466,74,48,76,83,81,104
+images/815.png,815,Honedge,Steel,Ghost,325,45,80,100,35,37,28
+images/816.png,816,Doublade,Steel,Ghost,448,59,110,150,45,49,35
+images/817.png,817,Aegislash Shield Forme,Steel,Ghost,500,60,50,140,50,140,60
+images/818.png,818,Aegislash Blade Forme,Steel,Ghost,500,60,140,50,140,50,60
+images/819.png,819,Spritzee,Fairy,,341,78,52,60,63,65,23
+images/820.png,820,Aromatisse,Fairy,,462,101,72,72,99,89,29
+images/821.png,821,Swirlix,Fairy,,341,62,48,66,59,57,49
+images/822.png,822,Slurpuff,Fairy,,480,82,80,86,85,75,72
+images/823.png,823,Inkay,Dark,Psychic,288,53,54,53,37,46,45
+images/824.png,824,Malamar,Dark,Psychic,482,86,92,88,68,75,73
+images/825.png,825,Binacle,Rock,Water,306,42,52,67,39,56,50
+images/826.png,826,Barbaracle,Rock,Water,500,72,105,115,54,86,68
+images/827.png,827,Skrelp,Poison,Water,320,50,60,60,60,60,30
+images/828.png,828,Dragalge,Poison,Dragon,494,65,75,90,97,123,44
+images/829.png,829,Clauncher,Water,,330,50,53,62,58,63,44
+images/830.png,830,Clawitzer,Water,,500,71,73,88,120,89,59
+images/831.png,831,Helioptile,Electric,Normal,289,44,38,33,61,43,70
+images/832.png,832,Heliolisk,Electric,Normal,481,62,55,52,109,94,109
+images/833.png,833,Tyrunt,Rock,Dragon,362,58,89,77,45,45,48
+images/834.png,834,Tyrantrum,Rock,Dragon,521,82,121,119,69,59,71
+images/835.png,835,Amaura,Rock,Ice,362,77,59,50,67,63,46
+images/836.png,836,Aurorus,Rock,Ice,521,123,77,72,99,92,58
+images/837.png,837,Sylveon,Fairy,,525,95,65,65,110,130,60
+images/838.png,838,Hawlucha,Fighting,Flying,500,78,92,75,74,63,118
+images/839.png,839,Dedenne,Electric,Fairy,431,67,58,57,81,67,101
+images/840.png,840,Carbink,Rock,Fairy,500,50,50,150,50,150,50
+images/841.png,841,Goomy,Dragon,,300,45,50,35,55,75,40
+images/842.png,842,Sliggoo,Dragon,,452,68,75,53,83,113,60
+images/843.png,843,Sliggoo Hisuian Sliggoo,Steel,Dragon,452,58,75,83,83,113,40
+images/844.png,844,Goodra,Dragon,,600,90,100,70,110,150,80
+images/845.png,845,Goodra Hisuian Goodra,Steel,Dragon,600,80,100,100,110,150,60
+images/846.png,846,Klefki,Steel,Fairy,470,57,80,91,80,87,75
+images/847.png,847,Phantump,Ghost,Grass,309,43,70,48,50,60,38
+images/848.png,848,Trevenant,Ghost,Grass,474,85,110,76,65,82,56
+images/849.png,849,Pumpkaboo Average Size,Ghost,Grass,335,49,66,70,44,55,51
+images/850.png,850,Pumpkaboo Small Size,Ghost,Grass,335,44,66,70,44,55,56
+images/851.png,851,Pumpkaboo Large Size,Ghost,Grass,335,54,66,70,44,55,46
+images/852.png,852,Pumpkaboo Super Size,Ghost,Grass,335,59,66,70,44,55,41
+images/853.png,853,Gourgeist Average Size,Ghost,Grass,494,65,90,122,58,75,84
+images/854.png,854,Gourgeist Small Size,Ghost,Grass,494,55,85,122,58,75,99
+images/855.png,855,Gourgeist Large Size,Ghost,Grass,494,75,95,122,58,75,69
+images/856.png,856,Gourgeist Super Size,Ghost,Grass,494,85,100,122,58,75,54
+images/857.png,857,Bergmite,Ice,,304,55,69,85,32,35,28
+images/858.png,858,Avalugg,Ice,,514,95,117,184,44,46,28
+images/859.png,859,Avalugg Hisuian Avalugg,Ice,Rock,514,95,127,184,34,36,38
+images/860.png,860,Noibat,Flying,Dragon,245,40,30,35,45,40,55
+images/861.png,861,Noivern,Flying,Dragon,535,85,70,80,97,80,123
+images/862.png,862,Xerneas,Fairy,,680,126,131,95,131,98,99
+images/863.png,863,Yveltal,Dark,Flying,680,126,131,95,131,98,99
+images/864.png,864,Zygarde 50% Forme,Dragon,Ground,600,108,100,121,81,95,95
+images/865.png,865,Zygarde 10% Forme,Dragon,Ground,486,54,100,71,61,85,115
+images/866.png,866,Zygarde Complete Forme,Dragon,Ground,708,216,100,121,91,95,85
+images/867.png,867,Diancie,Rock,Fairy,600,50,100,150,100,150,50
+images/868.png,868,Diancie Mega Diancie,Rock,Fairy,700,50,160,110,160,110,110
+images/869.png,869,Hoopa Hoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70
+images/870.png,870,Hoopa Hoopa Unbound,Psychic,Dark,680,80,160,60,170,130,80
+images/871.png,871,Volcanion,Fire,Water,600,80,110,120,130,90,70
+images/872.png,872,Rowlet,Grass,Flying,320,68,55,55,50,50,42
+images/873.png,873,Dartrix,Grass,Flying,420,78,75,75,70,70,52
+images/874.png,874,Decidueye,Grass,Ghost,530,78,107,75,100,100,70
+images/875.png,875,Decidueye Hisuian Decidueye,Grass,Fighting,530,88,112,80,95,95,60
+images/876.png,876,Litten,Fire,,320,45,65,40,60,40,70
+images/877.png,877,Torracat,Fire,,420,65,85,50,80,50,90
+images/878.png,878,Incineroar,Fire,Dark,530,95,115,90,80,90,60
+images/879.png,879,Popplio,Water,,320,50,54,54,66,56,40
+images/880.png,880,Brionne,Water,,420,60,69,69,91,81,50
+images/881.png,881,Primarina,Water,Fairy,530,80,74,74,126,116,60
+images/882.png,882,Pikipek,Normal,Flying,265,35,75,30,30,30,65
+images/883.png,883,Trumbeak,Normal,Flying,355,55,85,50,40,50,75
+images/884.png,884,Toucannon,Normal,Flying,485,80,120,75,75,75,60
+images/885.png,885,Yungoos,Normal,,253,48,70,30,30,30,45
+images/886.png,886,Gumshoos,Normal,,418,88,110,60,55,60,45
+images/887.png,887,Grubbin,Bug,,300,47,62,45,55,45,46
+images/888.png,888,Charjabug,Bug,Electric,400,57,82,95,55,75,36
+images/889.png,889,Vikavolt,Bug,Electric,500,77,70,90,145,75,43
+images/890.png,890,Crabrawler,Fighting,,338,47,82,57,42,47,63
+images/891.png,891,Crabominable,Fighting,Ice,478,97,132,77,62,67,43
+images/892.png,892,Oricorio Baile Style,Fire,Flying,476,75,70,70,98,70,93
+images/893.png,893,Oricorio Pom-Pom Style,Electric,Flying,476,75,70,70,98,70,93
+images/894.png,894,Oricorio Pa'u Style,Psychic,Flying,476,75,70,70,98,70,93
+images/895.png,895,Oricorio Sensu Style,Ghost,Flying,476,75,70,70,98,70,93
+images/896.png,896,Cutiefly,Bug,Fairy,304,40,45,40,55,40,84
+images/897.png,897,Ribombee,Bug,Fairy,464,60,55,60,95,70,124
+images/898.png,898,Rockruff,Rock,,280,45,65,40,30,40,60
+images/899.png,899,Rockruff Own Tempo Rockruff,Rock,,280,45,65,40,30,40,60
+images/900.png,900,Lycanroc Midday Form,Rock,,487,75,115,65,55,65,112
+images/901.png,901,Lycanroc Midnight Form,Rock,,487,85,115,75,55,75,82
+images/902.png,902,Lycanroc Dusk Form,Rock,,487,75,117,65,55,65,110
+images/903.png,903,Wishiwashi Solo Form,Water,,175,45,20,20,25,25,40
+images/904.png,904,Wishiwashi School Form,Water,,620,45,140,130,140,135,30
+images/905.png,905,Mareanie,Poison,Water,305,50,53,62,43,52,45
+images/906.png,906,Toxapex,Poison,Water,495,50,63,152,53,142,35
+images/907.png,907,Mudbray,Ground,,385,70,100,70,45,55,45
+images/908.png,908,Mudsdale,Ground,,500,100,125,100,55,85,35
+images/909.png,909,Dewpider,Water,Bug,269,38,40,52,40,72,27
+images/910.png,910,Araquanid,Water,Bug,454,68,70,92,50,132,42
+images/911.png,911,Fomantis,Grass,,250,40,55,35,50,35,35
+images/912.png,912,Lurantis,Grass,,480,70,105,90,80,90,45
+images/913.png,913,Morelull,Grass,Fairy,285,40,35,55,65,75,15
+images/914.png,914,Shiinotic,Grass,Fairy,405,60,45,80,90,100,30
+images/915.png,915,Salandit,Poison,Fire,320,48,44,40,71,40,77
+images/916.png,916,Salazzle,Poison,Fire,480,68,64,60,111,60,117
+images/917.png,917,Stufful,Normal,Fighting,340,70,75,50,45,50,50
+images/918.png,918,Bewear,Normal,Fighting,500,120,125,80,55,60,60
+images/919.png,919,Bounsweet,Grass,,210,42,30,38,30,38,32
+images/920.png,920,Steenee,Grass,,290,52,40,48,40,48,62
+images/921.png,921,Tsareena,Grass,,510,72,120,98,50,98,72
+images/922.png,922,Comfey,Fairy,,485,51,52,90,82,110,100
+images/923.png,923,Oranguru,Normal,Psychic,490,90,60,80,90,110,60
+images/924.png,924,Passimian,Fighting,,490,100,120,90,40,60,80
+images/925.png,925,Wimpod,Bug,Water,230,25,35,40,20,30,80
+images/926.png,926,Golisopod,Bug,Water,530,75,125,140,60,90,40
+images/927.png,927,Sandygast,Ghost,Ground,320,55,55,80,70,45,15
+images/928.png,928,Palossand,Ghost,Ground,480,85,75,110,100,75,35
+images/929.png,929,Pyukumuku,Water,,410,55,60,130,30,130,5
+images/930.png,930,Type: Null,Normal,,534,95,95,95,95,95,59
+images/931.png,931,Silvally,Normal,,570,95,95,95,95,95,95
+images/932.png,932,Minior Meteor Form,Rock,Flying,440,60,60,100,60,100,60
+images/933.png,933,Minior Core Form,Rock,Flying,500,60,100,60,100,60,120
+images/934.png,934,Komala,Normal,,480,65,115,65,75,95,65
+images/935.png,935,Turtonator,Fire,Dragon,485,60,78,135,91,85,36
+images/936.png,936,Togedemaru,Electric,Steel,435,65,98,63,40,73,96
+images/937.png,937,Mimikyu,Ghost,Fairy,476,55,90,80,50,105,96
+images/938.png,938,Bruxish,Water,Psychic,475,68,105,70,70,70,92
+images/939.png,939,Drampa,Normal,Dragon,485,78,60,85,135,91,36
+images/940.png,940,Dhelmise,Ghost,Grass,517,70,131,100,86,90,40
+images/941.png,941,Jangmo-o,Dragon,,300,45,55,65,45,45,45
+images/942.png,942,Hakamo-o,Dragon,Fighting,420,55,75,90,65,70,65
+images/943.png,943,Kommo-o,Dragon,Fighting,600,75,110,125,100,105,85
+images/944.png,944,Tapu Koko,Electric,Fairy,570,70,115,85,95,75,130
+images/945.png,945,Tapu Lele,Psychic,Fairy,570,70,85,75,130,115,95
+images/946.png,946,Tapu Bulu,Grass,Fairy,570,70,130,115,85,95,75
+images/947.png,947,Tapu Fini,Water,Fairy,570,70,75,115,95,130,85
+images/948.png,948,Cosmog,Psychic,,200,43,29,31,29,31,37
+images/949.png,949,Cosmoem,Psychic,,400,43,29,131,29,131,37
+images/950.png,950,Solgaleo,Psychic,Steel,680,137,137,107,113,89,97
+images/951.png,951,Lunala,Psychic,Ghost,680,137,113,89,137,107,97
+images/952.png,952,Nihilego,Rock,Poison,570,109,53,47,127,131,103
+images/953.png,953,Buzzwole,Bug,Fighting,570,107,139,139,53,53,79
+images/954.png,954,Pheromosa,Bug,Fighting,570,71,137,37,137,37,151
+images/955.png,955,Xurkitree,Electric,,570,83,89,71,173,71,83
+images/956.png,956,Celesteela,Steel,Flying,570,97,101,103,107,101,61
+images/957.png,957,Kartana,Grass,Steel,570,59,181,131,59,31,109
+images/958.png,958,Guzzlord,Dark,Dragon,570,223,101,53,97,53,43
+images/959.png,959,Necrozma,Psychic,,600,97,107,101,127,89,79
+images/960.png,960,Necrozma Dusk Mane Necrozma,Psychic,Steel,680,97,157,127,113,109,77
+images/961.png,961,Necrozma Dawn Wings Necrozma,Psychic,Ghost,680,97,113,109,157,127,77
+images/962.png,962,Necrozma Ultra Necrozma,Psychic,Dragon,754,97,167,97,167,97,129
+images/963.png,963,Magearna,Steel,Fairy,600,80,95,115,130,115,65
+images/964.png,964,Marshadow,Fighting,Ghost,600,90,125,80,90,90,125
+images/965.png,965,Poipole,Poison,,420,67,73,67,73,67,73
+images/966.png,966,Naganadel,Poison,Dragon,540,73,73,73,127,73,121
+images/967.png,967,Stakataka,Rock,Steel,570,61,131,211,53,101,13
+images/968.png,968,Blacephalon,Fire,Ghost,570,53,127,53,151,79,107
+images/969.png,969,Zeraora,Electric,,600,88,112,75,102,80,143
+images/970.png,970,Meltan,Steel,,300,46,65,65,55,35,34
+images/971.png,971,Melmetal,Steel,,600,135,143,143,80,65,34
+images/972.png,972,Grookey,Grass,,310,50,65,50,40,40,65
+images/973.png,973,Thwackey,Grass,,420,70,85,70,55,60,80
+images/974.png,974,Rillaboom,Grass,,530,100,125,90,60,70,85
+images/975.png,975,Scorbunny,Fire,,310,50,71,40,40,40,69
+images/976.png,976,Raboot,Fire,,420,65,86,60,55,60,94
+images/977.png,977,Cinderace,Fire,,530,80,116,75,65,75,119
+images/978.png,978,Sobble,Water,,310,50,40,40,70,40,70
+images/979.png,979,Drizzile,Water,,420,65,60,55,95,55,90
+images/980.png,980,Inteleon,Water,,530,70,85,65,125,65,120
+images/981.png,981,Skwovet,Normal,,275,70,55,55,35,35,25
+images/982.png,982,Greedent,Normal,,460,120,95,95,55,75,20
+images/983.png,983,Rookidee,Flying,,245,38,47,35,33,35,57
+images/984.png,984,Corvisquire,Flying,,365,68,67,55,43,55,77
+images/985.png,985,Corviknight,Flying,Steel,495,98,87,105,53,85,67
+images/986.png,986,Blipbug,Bug,,180,25,20,20,25,45,45
+images/987.png,987,Dottler,Bug,Psychic,335,50,35,80,50,90,30
+images/988.png,988,Orbeetle,Bug,Psychic,505,60,45,110,80,120,90
+images/989.png,989,Nickit,Dark,,245,40,28,28,47,52,50
+images/990.png,990,Thievul,Dark,,455,70,58,58,87,92,90
+images/991.png,991,Gossifleur,Grass,,250,40,40,60,40,60,10
+images/992.png,992,Eldegoss,Grass,,460,60,50,90,80,120,60
+images/993.png,993,Wooloo,Normal,,270,42,40,55,40,45,48
+images/994.png,994,Dubwool,Normal,,490,72,80,100,60,90,88
+images/995.png,995,Chewtle,Water,,284,50,64,50,38,38,44
+images/996.png,996,Drednaw,Water,Rock,485,90,115,90,48,68,74
+images/997.png,997,Yamper,Electric,,270,59,45,50,40,50,26
+images/998.png,998,Boltund,Electric,,490,69,90,60,90,60,121
+images/999.png,999,Rolycoly,Rock,,240,30,40,50,40,50,30
+images/1000.png,1000,Carkol,Rock,Fire,410,80,60,90,60,70,50
+images/1001.png,1001,Coalossal,Rock,Fire,510,110,80,120,80,90,30
+images/1002.png,1002,Applin,Grass,Dragon,260,40,40,80,40,40,20
+images/1003.png,1003,Flapple,Grass,Dragon,485,70,110,80,95,60,70
+images/1004.png,1004,Appletun,Grass,Dragon,485,110,85,80,100,80,30
+images/1005.png,1005,Silicobra,Ground,,315,52,57,75,35,50,46
+images/1006.png,1006,Sandaconda,Ground,,510,72,107,125,65,70,71
+images/1007.png,1007,Cramorant,Flying,Water,475,70,85,55,85,95,85
+images/1008.png,1008,Arrokuda,Water,,280,41,63,40,40,30,66
+images/1009.png,1009,Barraskewda,Water,,490,61,123,60,60,50,136
+images/1010.png,1010,Toxel,Electric,Poison,242,40,38,35,54,35,40
+images/1011.png,1011,Toxtricity Amped Form,Electric,Poison,502,75,98,70,114,70,75
+images/1012.png,1012,Toxtricity Low Key Form,Electric,Poison,502,75,98,70,114,70,75
+images/1013.png,1013,Sizzlipede,Fire,Bug,305,50,65,45,50,50,45
+images/1014.png,1014,Centiskorch,Fire,Bug,525,100,115,65,90,90,65
+images/1015.png,1015,Clobbopus,Fighting,,310,50,68,60,50,50,32
+images/1016.png,1016,Grapploct,Fighting,,480,80,118,90,70,80,42
+images/1017.png,1017,Sinistea,Ghost,,308,40,45,45,74,54,50
+images/1018.png,1018,Polteageist,Ghost,,508,60,65,65,134,114,70
+images/1019.png,1019,Hatenna,Psychic,,265,42,30,45,56,53,39
+images/1020.png,1020,Hattrem,Psychic,,370,57,40,65,86,73,49
+images/1021.png,1021,Hatterene,Psychic,Fairy,510,57,90,95,136,103,29
+images/1022.png,1022,Impidimp,Dark,Fairy,265,45,45,30,55,40,50
+images/1023.png,1023,Morgrem,Dark,Fairy,370,65,60,45,75,55,70
+images/1024.png,1024,Grimmsnarl,Dark,Fairy,510,95,120,65,95,75,60
+images/1025.png,1025,Obstagoon,Dark,Normal,520,93,90,101,60,81,95
+images/1026.png,1026,Perrserker,Steel,,440,70,110,100,50,60,50
+images/1027.png,1027,Cursola,Ghost,,510,60,95,50,145,130,30
+images/1028.png,1028,Sirfetch'd,Fighting,,507,62,135,95,68,82,65
+images/1029.png,1029,Mr. Rime,Ice,Psychic,520,80,85,75,110,100,70
+images/1030.png,1030,Runerigus,Ground,Ghost,483,58,95,145,50,105,30
+images/1031.png,1031,Milcery,Fairy,,270,45,40,40,50,61,34
+images/1032.png,1032,Alcremie,Fairy,,495,65,60,75,110,121,64
+images/1033.png,1033,Falinks,Fighting,,470,65,100,100,70,60,75
+images/1034.png,1034,Pincurchin,Electric,,435,48,101,95,91,85,15
+images/1035.png,1035,Snom,Ice,Bug,185,30,25,35,45,30,20
+images/1036.png,1036,Frosmoth,Ice,Bug,475,70,65,60,125,90,65
+images/1037.png,1037,Stonjourner,Rock,,470,100,125,135,20,20,70
+images/1038.png,1038,Eiscue Ice Face,Ice,,470,75,80,110,65,90,50
+images/1039.png,1039,Eiscue Noice Face,Ice,,470,75,80,70,65,50,130
+images/1040.png,1040,Indeedee Male,Psychic,Normal,475,60,65,55,105,95,95
+images/1041.png,1041,Indeedee Female,Psychic,Normal,475,70,55,65,95,105,85
+images/1042.png,1042,Morpeko Full Belly Mode,Electric,Dark,436,58,95,58,70,58,97
+images/1043.png,1043,Morpeko Hangry Mode,Electric,Dark,436,58,95,58,70,58,97
+images/1044.png,1044,Cufant,Steel,,330,72,80,49,40,49,40
+images/1045.png,1045,Copperajah,Steel,,500,122,130,69,80,69,30
+images/1046.png,1046,Dracozolt,Electric,Dragon,505,90,100,90,80,70,75
+images/1047.png,1047,Arctozolt,Electric,Ice,505,90,100,90,90,80,55
+images/1048.png,1048,Dracovish,Water,Dragon,505,90,90,100,70,80,75
+images/1049.png,1049,Arctovish,Water,Ice,505,90,90,100,80,90,55
+images/1050.png,1050,Duraludon,Steel,Dragon,535,70,95,115,120,50,85
+images/1051.png,1051,Dreepy,Dragon,Ghost,270,28,60,30,40,30,82
+images/1052.png,1052,Drakloak,Dragon,Ghost,410,68,80,50,60,50,102
+images/1053.png,1053,Dragapult,Dragon,Ghost,600,88,120,75,100,75,142
+images/1054.png,1054,Zacian Hero of Many Battles,Fairy,,660,92,120,115,80,115,138
+images/1055.png,1055,Zacian Crowned Sword,Fairy,Steel,700,92,150,115,80,115,148
+images/1056.png,1056,Zamazenta Hero of Many Battles,Fighting,,660,92,120,115,80,115,138
+images/1057.png,1057,Zamazenta Crowned Shield,Fighting,Steel,700,92,120,140,80,140,128
+images/1058.png,1058,Eternatus,Poison,Dragon,690,140,85,95,145,95,130
+images/1059.png,1059,Eternatus Eternamax,Poison,Dragon,1125,255,115,250,125,250,130
+images/1060.png,1060,Kubfu,Fighting,,385,60,90,60,53,50,72
+images/1061.png,1061,Urshifu Single Strike Style,Fighting,Dark,550,100,130,100,63,60,97
+images/1062.png,1062,Urshifu Rapid Strike Style,Fighting,Water,550,100,130,100,63,60,97
+images/1063.png,1063,Zarude,Dark,Grass,600,105,120,105,70,95,105
+images/1064.png,1064,Regieleki,Electric,,580,80,100,50,100,50,200
+images/1065.png,1065,Regidrago,Dragon,,580,200,100,50,100,50,80
+images/1066.png,1066,Glastrier,Ice,,580,100,145,130,65,110,30
+images/1067.png,1067,Spectrier,Ghost,,580,100,65,60,145,80,130
+images/1068.png,1068,Calyrex,Psychic,Grass,500,100,80,80,80,80,80
+images/1069.png,1069,Calyrex Ice Rider,Psychic,Ice,680,100,165,150,85,130,50
+images/1070.png,1070,Calyrex Shadow Rider,Psychic,Ghost,680,100,85,80,165,100,150
+images/1071.png,1071,Wyrdeer,Normal,Psychic,525,103,105,72,105,75,65
+images/1072.png,1072,Kleavor,Bug,Rock,500,70,135,95,45,70,85
+images/1073.png,1073,Ursaluna,Ground,Normal,550,130,140,105,45,80,50
+images/1074.png,1074,Ursaluna Bloodmoon,Ground,Normal,555,113,70,120,135,65,52
+images/1075.png,1075,Basculegion Male,Water,Ghost,530,120,112,65,80,75,78
+images/1076.png,1076,Basculegion Female,Water,Ghost,530,120,92,65,100,75,78
+images/1077.png,1077,Sneasler,Fighting,Poison,510,80,130,60,40,80,120
+images/1078.png,1078,Overqwil,Dark,Poison,510,85,115,95,65,65,85
+images/1079.png,1079,Enamorus Incarnate Forme,Fairy,Flying,580,74,115,70,135,80,106
+images/1080.png,1080,Enamorus Therian Forme,Fairy,Flying,580,74,115,110,135,100,46
+images/1081.png,1081,Sprigatito,Grass,,310,40,61,54,45,45,65
+images/1082.png,1082,Floragato,Grass,,410,61,80,63,60,63,83
+images/1083.png,1083,Meowscarada,Grass,Dark,530,76,110,70,81,70,123
+images/1084.png,1084,Fuecoco,Fire,,310,67,45,59,63,40,36
+images/1085.png,1085,Crocalor,Fire,,411,81,55,78,90,58,49
+images/1086.png,1086,Skeledirge,Fire,Ghost,530,104,75,100,110,75,66
+images/1087.png,1087,Quaxly,Water,,310,55,65,45,50,45,50
+images/1088.png,1088,Quaxwell,Water,,410,70,85,65,65,60,65
+images/1089.png,1089,Quaquaval,Water,Fighting,530,85,120,80,85,75,85
+images/1090.png,1090,Lechonk,Normal,,254,54,45,40,35,45,35
+images/1091.png,1091,Oinkologne Male,Normal,,489,110,100,75,59,80,65
+images/1092.png,1092,Oinkologne Female,Normal,,489,115,90,70,59,90,65
+images/1093.png,1093,Tarountula,Bug,,210,35,41,45,29,40,20
+images/1094.png,1094,Spidops,Bug,,404,60,79,92,52,86,35
+images/1095.png,1095,Nymble,Bug,,210,33,46,40,21,25,45
+images/1096.png,1096,Lokix,Bug,Dark,450,71,102,78,52,55,92
+images/1097.png,1097,Pawmi,Electric,,240,45,50,20,40,25,60
+images/1098.png,1098,Pawmo,Electric,Fighting,350,60,75,40,50,40,85
+images/1099.png,1099,Pawmot,Electric,Fighting,490,70,115,70,70,60,105
+images/1100.png,1100,Tandemaus,Normal,,305,50,50,45,40,45,75
+images/1101.png,1101,Maushold Family of Four,Normal,,470,74,75,70,65,75,111
+images/1102.png,1102,Maushold Family of Three,Normal,,470,74,75,70,65,75,111
+images/1103.png,1103,Fidough,Fairy,,312,37,55,70,30,55,65
+images/1104.png,1104,Dachsbun,Fairy,,477,57,80,115,50,80,95
+images/1105.png,1105,Smoliv,Grass,Normal,260,41,35,45,58,51,30
+images/1106.png,1106,Dolliv,Grass,Normal,354,52,53,60,78,78,33
+images/1107.png,1107,Arboliva,Grass,Normal,510,78,69,90,125,109,39
+images/1108.png,1108,Squawkabilly Green Plumage,Normal,Flying,417,82,96,51,45,51,92
+images/1109.png,1109,Squawkabilly Blue Plumage,Normal,Flying,417,82,96,51,45,51,92
+images/1110.png,1110,Squawkabilly Yellow Plumage,Normal,Flying,417,82,96,51,45,51,92
+images/1111.png,1111,Squawkabilly White Plumage,Normal,Flying,417,82,96,51,45,51,92
+images/1112.png,1112,Nacli,Rock,,280,55,55,75,35,35,25
+images/1113.png,1113,Naclstack,Rock,,355,60,60,100,35,65,35
+images/1114.png,1114,Garganacl,Rock,,500,100,100,130,45,90,35
+images/1115.png,1115,Charcadet,Fire,,255,40,50,40,50,40,35
+images/1116.png,1116,Armarouge,Fire,Psychic,525,85,60,100,125,80,75
+images/1117.png,1117,Ceruledge,Fire,Ghost,525,75,125,80,60,100,85
+images/1118.png,1118,Tadbulb,Electric,,272,61,31,41,59,35,45
+images/1119.png,1119,Bellibolt,Electric,,495,109,64,91,103,83,45
+images/1120.png,1120,Wattrel,Electric,Flying,280,40,40,35,55,40,70
+images/1121.png,1121,Kilowattrel,Electric,Flying,490,70,70,60,105,60,125
+images/1122.png,1122,Maschiff,Dark,,340,60,78,60,40,51,51
+images/1123.png,1123,Mabosstiff,Dark,,505,80,120,90,60,70,85
+images/1124.png,1124,Shroodle,Poison,Normal,290,40,65,35,40,35,75
+images/1125.png,1125,Grafaiai,Poison,Normal,485,63,95,65,80,72,110
+images/1126.png,1126,Bramblin,Grass,Ghost,275,40,65,30,45,35,60
+images/1127.png,1127,Brambleghast,Grass,Ghost,480,55,115,70,80,70,90
+images/1128.png,1128,Toedscool,Ground,Grass,335,40,40,35,50,100,70
+images/1129.png,1129,Toedscruel,Ground,Grass,515,80,70,65,80,120,100
+images/1130.png,1130,Klawf,Rock,,450,70,100,115,35,55,75
+images/1131.png,1131,Capsakid,Grass,,304,50,62,40,62,40,50
+images/1132.png,1132,Scovillain,Grass,Fire,486,65,108,65,108,65,75
+images/1133.png,1133,Rellor,Bug,,270,41,50,60,31,58,30
+images/1134.png,1134,Rabsca,Bug,Psychic,470,75,50,85,115,100,45
+images/1135.png,1135,Flittle,Psychic,,255,30,35,30,55,30,75
+images/1136.png,1136,Espathra,Psychic,,481,95,60,60,101,60,105
+images/1137.png,1137,Tinkatink,Fairy,Steel,297,50,45,45,35,64,58
+images/1138.png,1138,Tinkatuff,Fairy,Steel,380,65,55,55,45,82,78
+images/1139.png,1139,Tinkaton,Fairy,Steel,506,85,75,77,70,105,94
+images/1140.png,1140,Wiglett,Water,,245,10,55,25,35,25,95
+images/1141.png,1141,Wugtrio,Water,,425,35,100,50,50,70,120
+images/1142.png,1142,Bombirdier,Flying,Dark,485,70,103,85,60,85,82
+images/1143.png,1143,Finizen,Water,,315,70,45,40,45,40,75
+images/1144.png,1144,Palafin Zero Form,Water,,457,100,70,72,53,62,100
+images/1145.png,1145,Palafin Hero Form,Water,,650,100,160,97,106,87,100
+images/1146.png,1146,Varoom,Steel,Poison,300,45,70,63,30,45,47
+images/1147.png,1147,Revavroom,Steel,Poison,500,80,119,90,54,67,90
+images/1148.png,1148,Cyclizar,Dragon,Normal,501,70,95,65,85,65,121
+images/1149.png,1149,Orthworm,Steel,,480,70,85,145,60,55,65
+images/1150.png,1150,Glimmet,Rock,Poison,350,48,35,42,105,60,60
+images/1151.png,1151,Glimmora,Rock,Poison,525,83,55,90,130,81,86
+images/1152.png,1152,Greavard,Ghost,,290,50,61,60,30,55,34
+images/1153.png,1153,Houndstone,Ghost,,488,72,101,100,50,97,68
+images/1154.png,1154,Flamigo,Flying,Fighting,500,82,115,74,75,64,90
+images/1155.png,1155,Cetoddle,Ice,,334,108,68,45,30,40,43
+images/1156.png,1156,Cetitan,Ice,,521,170,113,65,45,55,73
+images/1157.png,1157,Veluza,Water,Psychic,478,90,102,73,78,65,70
+images/1158.png,1158,Dondozo,Water,,530,150,100,115,65,65,35
+images/1159.png,1159,Tatsugiri Curly Form,Dragon,Water,475,68,50,60,120,95,82
+images/1160.png,1160,Tatsugiri Droopy Form,Dragon,Water,475,68,50,60,120,95,82
+images/1161.png,1161,Tatsugiri Stretchy Form,Dragon,Water,475,68,50,60,120,95,82
+images/1162.png,1162,Annihilape,Fighting,Ghost,535,110,115,80,50,90,90
+images/1163.png,1163,Clodsire,Poison,Ground,430,130,75,60,45,100,20
+images/1164.png,1164,Farigiraf,Normal,Psychic,520,120,90,70,110,70,60
+images/1165.png,1165,Dudunsparce Two-Segment Form,Normal,,520,125,100,80,85,75,55
+images/1166.png,1166,Dudunsparce Three-Segment Form,Normal,,520,125,100,80,85,75,55
+images/1167.png,1167,Kingambit,Dark,Steel,550,100,135,120,60,85,50
+images/1168.png,1168,Great Tusk,Ground,Fighting,570,115,131,131,53,53,87
+images/1169.png,1169,Scream Tail,Fairy,Psychic,570,115,65,99,65,115,111
+images/1170.png,1170,Brute Bonnet,Grass,Dark,570,111,127,99,79,99,55
+images/1171.png,1171,Flutter Mane,Ghost,Fairy,570,55,55,55,135,135,135
+images/1172.png,1172,Slither Wing,Bug,Fighting,570,85,135,79,85,105,81
+images/1173.png,1173,Sandy Shocks,Electric,Ground,570,85,81,97,121,85,101
+images/1174.png,1174,Iron Treads,Ground,Steel,570,90,112,120,72,70,106
+images/1175.png,1175,Iron Bundle,Ice,Water,570,56,80,114,124,60,136
+images/1176.png,1176,Iron Hands,Fighting,Electric,570,154,140,108,50,68,50
+images/1177.png,1177,Iron Jugulis,Dark,Flying,570,94,80,86,122,80,108
+images/1178.png,1178,Iron Moth,Fire,Poison,570,80,70,60,140,110,110
+images/1179.png,1179,Iron Thorns,Rock,Electric,570,100,134,110,70,84,72
+images/1180.png,1180,Frigibax,Dragon,Ice,320,65,75,45,35,45,55
+images/1181.png,1181,Arctibax,Dragon,Ice,423,90,95,66,45,65,62
+images/1182.png,1182,Baxcalibur,Dragon,Ice,600,115,145,92,75,86,87
+images/1183.png,1183,Gimmighoul Chest Form,Ghost,,300,45,30,70,75,70,10
+images/1184.png,1184,Gimmighoul Roaming Form,Ghost,,300,45,30,25,75,45,80
+images/1185.png,1185,Gholdengo,Steel,Ghost,550,87,60,95,133,91,84
+images/1186.png,1186,Wo-Chien,Dark,Grass,570,85,85,100,95,135,70
+images/1187.png,1187,Chien-Pao,Dark,Ice,570,80,120,80,90,65,135
+images/1188.png,1188,Ting-Lu,Dark,Ground,570,155,110,125,55,80,45
+images/1189.png,1189,Chi-Yu,Dark,Fire,570,55,80,80,135,120,100
+images/1190.png,1190,Roaring Moon,Dragon,Dark,590,105,139,71,55,101,119
+images/1191.png,1191,Iron Valiant,Fairy,Fighting,590,74,130,90,120,60,116
+images/1192.png,1192,Koraidon,Fighting,Dragon,670,100,135,115,85,100,135
+images/1193.png,1193,Miraidon,Electric,Dragon,670,100,85,100,135,115,135
+images/1194.png,1194,Walking Wake,Water,Dragon,590,99,83,91,125,83,109
+images/1195.png,1195,Iron Leaves,Grass,Psychic,590,90,130,88,70,108,104
+images/1196.png,1196,Dipplin,Grass,Dragon,485,80,80,110,95,80,40
+images/1197.png,1197,Poltchageist,Grass,Ghost,308,40,45,45,74,54,50
+images/1198.png,1198,Sinistcha,Grass,Ghost,508,71,60,106,121,80,70
+images/1199.png,1199,Okidogi,Poison,Fighting,555,88,128,115,58,86,80
+images/1200.png,1200,Munkidori,Poison,Psychic,555,88,75,66,130,90,106
+images/1201.png,1201,Fezandipiti,Poison,Fairy,555,88,91,82,70,125,99
+images/1202.png,1202,Ogerpon Teal Mask,Grass,,550,80,120,84,60,96,110
+images/1203.png,1203,Ogerpon Wellspring Mask,Grass,Water,550,80,120,84,60,96,110
+images/1204.png,1204,Ogerpon Hearthflame Mask,Grass,Fire,550,80,120,84,60,96,110
+images/1205.png,1205,Ogerpon Cornerstone Mask,Grass,Rock,550,80,120,84,60,96,110
+images/1206.png,1206,Archaludon,Steel,Dragon,600,90,105,130,125,65,85
+images/1207.png,1207,Hydrapple,Grass,Dragon,540,106,80,110,120,80,44
+images/1208.png,1208,Gouging Fire,Fire,Dragon,590,105,115,121,65,93,91
+images/1209.png,1209,Raging Bolt,Electric,Dragon,590,125,73,91,137,89,75
+images/1210.png,1210,Iron Boulder,Rock,Psychic,590,90,120,80,68,108,124
+images/1211.png,1211,Iron Crown,Steel,Psychic,590,90,72,100,122,108,98
+images/1212.png,1212,Terapagos Normal Form,Normal,,450,90,65,85,65,85,60
+images/1213.png,1213,Terapagos Terastal Form,Normal,,600,95,95,110,105,110,85
+images/1214.png,1214,Terapagos Stellar Form,Normal,,700,160,105,110,130,110,85
+images/1215.png,1215,Pecharunt,Poison,Ghost,600,88,88,160,88,88,88
